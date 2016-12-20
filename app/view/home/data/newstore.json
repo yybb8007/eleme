@@ -1,0 +1,1748 @@
+[
+    {
+        "activities": [
+            {
+                "description": "满30减5，满60减7",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17622694,
+                "name": "满减优惠",
+                "tips": "满30减5，满60减7"
+            },
+            {
+                "description": "双人能量餐半价享，这个冬天吉野家让你能量满满",
+                "icon_color": "f1884f",
+                "icon_name": "半",
+                "id": 16384851,
+                "name": "(不与其它活动同享)双人能量餐半价享，这个冬天吉野家让你能量满满",
+                "tips": "(不与其它活动同享)双人能量餐半价享，这个冬天吉野家让你能量满满"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15979992,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "王府井工美大厦地下一层",
+        "description": "欢迎光临",
+        "distance": 1230,
+        "float_delivery_fee": 7,
+        "float_minimum_order_amount": 0,
+        "id": 406922,
+        "image_path": "https://fuss10.elemecdn.com/9/da/99e61b6978553324d485a70c67ebapng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.9109082985521,
+        "longitude": 116.411563302116,
+        "max_applied_quantity_per_order": -1,
+        "name": "吉野家(工美店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/20:30"
+        ],
+        "order_lead_time": 39,
+        "phone": "4008197197",
+        "piecewise_agent_fee": {
+            "description": "配送费7元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 7,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费7元"
+        },
+        "promotion_info": "1. 餐厅已纳入外卖保计划，食品安全有保证； \n2.该餐厅订餐0元起送，7元配送费，由吉野家官方提供外送服务； \n3.客服电话4008197197；\n4.该餐厅支持开发票，机打发票开出需5个工作日，订餐默认手撕发票，需要机打发票请备注，谢谢！",
+        "rating": 4.6,
+        "rating_count": 197,
+        "recent_order_num": 829,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减15，满70减25",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17338451,
+                "name": "满减优惠",
+                "tips": "满30减15，满70减25"
+            },
+            {
+                "description": "真心喜欢一个人，心甘情愿，就会变得卑微又勇敢。",
+                "icon_color": "f1884f",
+                "icon_name": "小",
+                "id": 17499624,
+                "name": "真心喜欢一个人，心甘情愿，就会变得卑微又勇敢。",
+                "tips": "真心喜欢一个人，心甘情愿，就会变得卑微又勇敢。"
+            },
+            {
+                "description": "回忆，无法挣脱，渗透生活点滴，爱你纯粹、炙热。",
+                "icon_color": "f1884f",
+                "icon_name": "U",
+                "id": 17061981,
+                "name": "(不与其它活动同享)回忆，无法挣脱，渗透生活点滴，爱你纯粹、炙热。",
+                "tips": "(不与其它活动同享)回忆，无法挣脱，渗透生活点滴，爱你纯粹、炙热。"
+            },
+            {
+                "description": "喜欢你起点是，每个清晨准时在电梯间看见你暖心微笑",
+                "icon_color": "f07373",
+                "icon_name": "U",
+                "id": 17376571,
+                "name": "(不与其它活动同享)喜欢你起点是，每个清晨准时在电梯间看见你暖心微笑",
+                "tips": "(不与其它活动同享)喜欢你起点是，每个清晨准时在电梯间看见你暖心微笑"
+            },
+            {
+                "description": "总会遇见一个你，让所有寂寞和软弱，有了寄存的地方",
+                "icon_color": "f1884f",
+                "icon_name": "为",
+                "id": 17375037,
+                "name": "(不与其它活动同享)总会遇见一个你，让所有寂寞和软弱，有了寄存的地方",
+                "tips": "(不与其它活动同享)总会遇见一个你，让所有寂寞和软弱，有了寄存的地方"
+            },
+            {
+                "description": "爱的闪闪躲躲，给你太多委屈，今天所有人证明我爱你",
+                "icon_color": "f1884f",
+                "icon_name": "你",
+                "id": 17374165,
+                "name": "(不与其它活动同享)爱的闪闪躲躲，给你太多委屈，今天所有人证明我爱你",
+                "tips": "(不与其它活动同享)爱的闪闪躲躲，给你太多委屈，今天所有人证明我爱你"
+            },
+            {
+                "description": "多希望和你一起贯彻未来，数遍生命里的公路牌。",
+                "icon_color": "f1884f",
+                "icon_name": "表",
+                "id": 17373193,
+                "name": "(不与其它活动同享)多希望和你一起贯彻未来，数遍生命里的公路牌。",
+                "tips": "(不与其它活动同享)多希望和你一起贯彻未来，数遍生命里的公路牌。"
+            },
+            {
+                "description": "遇见你，让我懂得生命意义，期待清晨在耳边温柔细语",
+                "icon_color": "f1884f",
+                "icon_name": "白",
+                "id": 17372683,
+                "name": "(不与其它活动同享)遇见你，让我懂得生命意义，期待清晨在耳边温柔细语",
+                "tips": "(不与其它活动同享)遇见你，让我懂得生命意义，期待清晨在耳边温柔细语"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636624,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市王府井大街88号北京in88商场B1层B102号",
+        "description": "正宗四川特色。",
+        "distance": 1481,
+        "float_delivery_fee": 3,
+        "float_minimum_order_amount": 25,
+        "id": 553779,
+        "image_path": "https://fuss10.elemecdn.com/9/c1/f574e55fc85a2544ad09007a413f6jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.916229,
+        "longitude": 116.411857,
+        "max_applied_quantity_per_order": -1,
+        "name": "U鼎冒菜（王府井in88店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:30"
+        ],
+        "order_lead_time": 39,
+        "phone": "01059785220",
+        "piecewise_agent_fee": {
+            "description": "配送费3元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 3,
+                    "price": 25
+                }
+            ],
+            "tips": "配送费3元"
+        },
+        "promotion_info": "各位客官大家好，在选餐时“口味、餐盒”是必选项哟，否则\n是无法配送的，同时，喜欢U鼎冒菜的客官请及时收藏我们，点击商家\n下面“❤收藏”为红色即可；小U将免费送您一份价值12元的“小鲜肉”，\n领取方式:收藏店铺后，请到门店里向小U妹出示您收藏的店铺信息，\n即可获得一份香嫩小鲜肉。",
+        "rating": 4.6,
+        "rating_count": 467,
+        "recent_order_num": 1416,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减10，满60减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17199679,
+                "name": "满减优惠",
+                "tips": "满30减10，满60减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16976355,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区粮食店街36号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "新店开张，欢迎品尝",
+        "distance": 1649,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 20,
+        "id": 689403,
+        "image_path": "https://fuss10.elemecdn.com/7/b1/56a13d655f5a09b28e5bdfd2a5362jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.894027,
+        "longitude": 116.39785,
+        "max_applied_quantity_per_order": -1,
+        "name": "重庆小面",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/23:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "13611335544 13718553355",
+        "piecewise_agent_fee": {
+            "description": "配送费4元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费4元"
+        },
+        "promotion_info": "本店经营重庆小面，天下特色粉，土豆粉，米线，各类特色小吃，欢迎品尝！用餐高峰时间订餐，为了不耽误你正常用餐，请提前预定。",
+        "rating": 4.4,
+        "rating_count": 228,
+        "recent_order_num": 808,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满20减2，满40减4，满80减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17501527,
+                "name": "满减优惠",
+                "tips": "满20减2，满40减4，满80减8"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16866726,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城西单横二条59号1幢八层南区",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1463,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 2051782,
+        "image_path": "https://fuss10.elemecdn.com/1/de/ef69670cd9dc1a4118bc62f433fc2jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.910266,
+        "longitude": 116.380334,
+        "max_applied_quantity_per_order": -1,
+        "name": "正宗单县羊汤",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/19:30"
+        ],
+        "order_lead_time": 0,
+        "phone": "13001935186",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费5元，满100免"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 1,
+        "recent_order_num": 2,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满40减5，满60减20，满100减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17465533,
+                "name": "满减优惠",
+                "tips": "满40减5，满60减20，满100减30"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15913387,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区朝内南小街53号",
+        "bidding": "{\"index\":4,\"target\":{\"restaurantId\":1254466,\"weight\":200,\"probability\":6.4327216148376465},\"come_from\":1,\"next\":{\"restaurantId\":514764,\"weight\":110,\"probability\":9.378758430480957}}",
+        "description": "",
+        "distance": 2887,
+        "float_delivery_fee": 22,
+        "float_minimum_order_amount": 0,
+        "id": 1254466,
+        "image_path": "https://fuss10.elemecdn.com/3/f8/c085cb641bc648e4dae1aac8dd855png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.922667,
+        "longitude": 116.426062,
+        "max_applied_quantity_per_order": -1,
+        "name": "门小街烧烤",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "16:30/04:30"
+        ],
+        "order_lead_time": 36,
+        "phone": "13269583125",
+        "piecewise_agent_fee": {
+            "description": "配送费22元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 22,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费22元"
+        },
+        "promotion_info": "",
+        "rating": 3.8,
+        "rating_count": 11,
+        "recent_order_num": 77,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额200.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17223658,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "毛家湾胡同16号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2864,
+        "float_delivery_fee": 11,
+        "float_minimum_order_amount": 0,
+        "id": 2064035,
+        "image_path": "https://fuss10.elemecdn.com/4/88/1e047c43a1650bc2a99ac1e7fc87ejpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.903778,
+        "longitude": 116.430316,
+        "max_applied_quantity_per_order": -1,
+        "name": "福来饭店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "010-65245184",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费2元，20至100付7元，不满20付11元",
+            "extra_fee": 2,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 11,
+                    "price": 0
+                },
+                {
+                    "fee": 7,
+                    "price": 20
+                },
+                {
+                    "fee": 2,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费7元"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 3,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满25减12，满50减20，满90减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17745142,
+                "name": "满减优惠",
+                "tips": "满25减12，满50减20，满90减30"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15773399,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区堂子胡同9号新一代7层5b",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "地锅鸡,菜品以实物为准，图片仅供参考",
+        "distance": 1896,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 277988,
+        "image_path": "https://fuss10.elemecdn.com/8/56/5614618afc500a84712ebf822cdf3jpg.jpg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.911544,
+        "longitude": 116.375427,
+        "max_applied_quantity_per_order": -1,
+        "name": "全味香铁锅柴鸡（西单店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/20:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "13120146962",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费5元，满100免"
+        },
+        "promotion_info": "凡在我店订餐的顾客均可获赠软饮一包",
+        "rating": 4.6,
+        "rating_count": 62,
+        "recent_order_num": 247,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，开票订单金额20.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减4，满55减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17695598,
+                "name": "满减优惠",
+                "tips": "满30减4，满55减8"
+            },
+            {
+                "description": "18.8元特价优惠",
+                "icon_color": "f1884f",
+                "icon_name": "惠",
+                "id": 17620617,
+                "name": "(不与其它活动同享)18.8元特价优惠",
+                "tips": "(不与其它活动同享)18.8元特价优惠"
+            },
+            {
+                "description": "939元特价菜",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17620431,
+                "name": "(不与其它活动同享)939元特价菜",
+                "tips": "(不与其它活动同享)939元特价菜"
+            },
+            {
+                "description": "特价优惠2",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17184987,
+                "name": "特价优惠2",
+                "tips": "特价优惠2"
+            },
+            {
+                "description": "特价优惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17184925,
+                "name": "特价优惠",
+                "tips": "特价优惠"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16975363,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区留学路72号",
+        "description": "主营米线，美味可口，欢迎亲前来品尝！",
+        "distance": 2228,
+        "float_delivery_fee": 8.5,
+        "float_minimum_order_amount": 0,
+        "id": 612572,
+        "image_path": "https://fuss10.elemecdn.com/4/9d/abb92d2d273be775576dfe9c6fe9ejpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.88892,
+        "longitude": 116.394728,
+        "max_applied_quantity_per_order": -1,
+        "name": "艾老大云南过桥米线",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 34,
+        "phone": "63030141",
+        "piecewise_agent_fee": {
+            "description": "订单满90配送费1元，20至90付4元，不满20付8.5元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 8.5,
+                    "price": 0
+                },
+                {
+                    "fee": 4,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 90
+                }
+            ],
+            "tips": "满20配送费4元"
+        },
+        "promotion_info": "欢迎亲的光临，店所有食品为现做现售，亲可错开用餐高峰时段，提前预约下单以免耽误您用餐！！！\n\n期待亲用餐后的评价，以便我们为您提供更好的服务!！！\n\n如需自选荤菜的，请在套餐中的描述里选择！！！\n\n拼单时需要（在单加菜品中）另加一个餐盒，否则师傅无法配送！！！\n\n请亲订餐时在线支付，线下支付的话无配送师傅！！！\n\n\n如有问题请及时联系本店餐厅",
+        "rating": 4.9,
+        "rating_count": 80,
+        "recent_order_num": 436,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满35减7，满50减11，满100减18",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17490490,
+                "name": "满减优惠",
+                "tips": "满35减7，满50减11，满100减18"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636641,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区北新桥三条52号",
+        "description": "新品不断、口味值得您一尝~",
+        "distance": 4252,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 60,
+        "id": 566052,
+        "image_path": "https://fuss10.elemecdn.com/0/b3/3b9240ddf2ebe6e7e62755bed752ejpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9432928694086,
+        "longitude": 116.41910424004,
+        "max_applied_quantity_per_order": -1,
+        "name": "上菜小馆",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/23:00"
+        ],
+        "order_lead_time": 36,
+        "phone": "17778157727",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 60
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "距离远达不到送餐金额请添加店长微信\n17778157727 金额自定另支付闪送费用即可\n高峰期 请提前下单\n我们尽快于70分钟内送达",
+        "rating": 4.6,
+        "rating_count": 406,
+        "recent_order_num": 719,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满20减16，满50减28，满80减40",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17097222,
+                "name": "满减优惠",
+                "tips": "满20减16，满50减28，满80减40"
+            },
+            {
+                "description": "5折美食",
+                "icon_color": "f07373",
+                "icon_name": "5",
+                "id": 17406452,
+                "name": "(不与其它活动同享)5折美食",
+                "tips": "(不与其它活动同享)5折美食"
+            },
+            {
+                "description": "1元霸王餐",
+                "icon_color": "f1884f",
+                "icon_name": "秒",
+                "id": 16482206,
+                "name": "(不与其它活动同享)1元霸王餐",
+                "tips": "(不与其它活动同享)1元霸王餐"
+            },
+            {
+                "description": "5折精品美食",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 16481951,
+                "name": "(不与其它活动同享)5折精品美食",
+                "tips": "(不与其它活动同享)5折精品美食"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636566,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区东直门内大街288号",
+        "bidding": "{\"index\":9,\"target\":{\"restaurantId\":514764,\"weight\":110,\"probability\":9.378758430480957},\"come_from\":1,\"next\":{\"restaurantId\":1442851,\"weight\":50,\"probability\":8.416152000427246}}",
+        "description": "中华餐饮名店，中国干锅第一品牌蛙蛙叫干锅年代，全国50+连锁经营！口舌之欲干锅之美，我们只做更好吃的干锅！吃过便会爱上！现已开通全城闪送，足不出户，即刻拥有热气腾的美味！",
+        "distance": 3938,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 0,
+        "id": 514764,
+        "image_path": "https://fuss10.elemecdn.com/0/3e/99399fc52789c801de27005d64ee5jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9407998989986,
+        "longitude": 116.417360718504,
+        "max_applied_quantity_per_order": -1,
+        "name": "蛙蛙叫干锅年代（北京）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:30/05:00"
+        ],
+        "order_lead_time": 50,
+        "phone": "18701005177",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "中华餐饮名店，中国干锅第一品牌蛙蛙叫干锅年代，全国50+连锁经营！口舌之欲干锅之美，我们只做更好吃的干锅！吃过便会爱上！现已开通全城闪送，足不出户，即刻拥有热气腾腾的美味！",
+        "rating": 4.4,
+        "rating_count": 316,
+        "recent_order_num": 1188,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满25减5，满35减7，满55减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17076346,
+                "name": "满减优惠",
+                "tips": "满25减5，满35减7，满55减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16875097,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京王府井丽华快餐配送点",
+        "description": "北京市五环以内,一份起送(不含南四环外的地区)，单笔消费金额在50元以内， 收取3元送餐费,公司承诺，四环以内半小时送到，四环至五环之间45分钟送到",
+        "distance": 1182,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 16,
+        "id": 165796,
+        "image_path": "https://fuss10.elemecdn.com/1/1a/3beeeca505c399cd39a0b959f309cjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.91158,
+        "longitude": 116.41079,
+        "max_applied_quantity_per_order": -1,
+        "name": "丽华快餐（王府井店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:30/13:45",
+            "17:00/20:00"
+        ],
+        "order_lead_time": 36,
+        "phone": "4008800400 67781234",
+        "piecewise_agent_fee": {
+            "description": "配送费6元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 16
+                }
+            ],
+            "tips": "配送费6元"
+        },
+        "promotion_info": "1、本店推荐您在饿了么网上订餐——饭口较忙，电话常占线，本店优先配送网络订单2、首次订餐用户，饿了么客服会对您的订单进行电话确认（来电区号为021），请确保您的电话开机及铃声状态以便送餐员能联系上您3、外卖制作+配送都需要耗费时间，希望大家提前进行预订外卖，避开高峰拥堵，提前预定",
+        "rating": 4.8,
+        "rating_count": 57,
+        "recent_order_num": 532,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减4，满100减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17688447,
+                "name": "满减优惠",
+                "tips": "满50减4，满100减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17225714,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区灯草胡同66号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2226,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 2068151,
+        "image_path": "https://fuss10.elemecdn.com/4/53/bbbc1ebf3db0b8ab527ccf10bc402png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.921091,
+        "longitude": 116.418062,
+        "max_applied_quantity_per_order": -1,
+        "name": "特色面食店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 36,
+        "phone": "13601182574",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费6元"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 9,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满28减6，满38减10，满58减18",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15589632,
+                "name": "满减优惠",
+                "tips": "满28减6，满38减10，满58减18"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15841992,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区西单东斜街25#",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "本店经营各种家常菜、盖饭、铁板、锅仔，欢迎大家来品尝！",
+        "distance": 2053,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 166317,
+        "image_path": "https://fuss10.elemecdn.com/4/53/bbbc1ebf3db0b8ab527ccf10bc402png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.917751,
+        "longitude": 116.376289,
+        "max_applied_quantity_per_order": -1,
+        "name": "川湘缘",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/23:00"
+        ],
+        "order_lead_time": 42,
+        "phone": "13439562294 13161240657",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费6元"
+        },
+        "promotion_info": "由于版本问题，要发票请写备注，谢谢合作。",
+        "rating": 4.9,
+        "rating_count": 67,
+        "recent_order_num": 174,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，开票订单金额20.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满60减10，满120减22，满200减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16794616,
+                "name": "满减优惠",
+                "tips": "满60减10，满120减22，满200减30"
+            },
+            {
+                "description": "感恩大回馈",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17617995,
+                "name": "(不与其它活动同享)感恩大回馈",
+                "tips": "(不与其它活动同享)感恩大回馈"
+            },
+            {
+                "description": "满58.0元赠送小吃1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17600215,
+                "name": "满赠优惠",
+                "tips": "满58.0元赠送小吃1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15708114,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区夕照寺西里甲3号（平房）",
+        "description": "从事餐饮十多年，做外卖跟实体一样认真。总店在西城区什刹海，其余在东城区丰台等地都有分店，我们会根据您的收餐地址为您选择就近的店铺配送。",
+        "distance": 4218,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 48,
+        "id": 1518193,
+        "image_path": "https://fuss10.elemecdn.com/8/6f/d8b4e8614616d43fd730f6b962e4dpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.889912,
+        "longitude": 116.440227,
+        "max_applied_quantity_per_order": -1,
+        "name": "麻辣村香锅",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:40/24:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "13501246225",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 48
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "全北京都能配送的热乎外卖，香锅和一整条烤鱼都能送到家。\n秋冬季节还特别推出酸萝卜老鸭汤系列！！\n我们的香锅每单都是现切现炒，\n用餐高峰期请小伙伴们提前下单，支持预约单哦_(:з」∠)_。",
+        "rating": 4.7,
+        "rating_count": 498,
+        "recent_order_num": 688,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额50.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满68减26，满98减32，满188减68",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17772742,
+                "name": "满减优惠",
+                "tips": "满68减26，满98减32，满188减68"
+            },
+            {
+                "description": "圣诞狂欢5折特价",
+                "icon_color": "f07373",
+                "icon_name": "5",
+                "id": 17767078,
+                "name": "(不与其它活动同享)圣诞狂欢5折特价",
+                "tips": "(不与其它活动同享)圣诞狂欢5折特价"
+            },
+            {
+                "description": "感恩回馈特价菜",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17576878,
+                "name": "(不与其它活动同享)感恩回馈特价菜",
+                "tips": "(不与其它活动同享)感恩回馈特价菜"
+            },
+            {
+                "description": "满188.0元赠送烤牛肉炒饭1份，满59.0元赠送可乐1份，满88.0元赠送加多宝1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17576809,
+                "name": "满赠优惠",
+                "tips": "满188.0元赠送烤牛肉炒饭1份，满59.0元赠送可乐1份，满88.0元赠送加多宝1份"
+            },
+            {
+                "description": "6折美食",
+                "icon_color": "f07373",
+                "icon_name": "6",
+                "id": 16202933,
+                "name": "(不与其它活动同享)6折美食",
+                "tips": "(不与其它活动同享)6折美食"
+            },
+            {
+                "description": "特价小龙虾",
+                "icon_color": "f1884f",
+                "icon_name": "虾",
+                "id": 16202535,
+                "name": "(不与其它活动同享)特价小龙虾",
+                "tips": "(不与其它活动同享)特价小龙虾"
+            },
+            {
+                "description": "特价套餐",
+                "icon_color": "f1884f",
+                "icon_name": "套",
+                "id": 16202294,
+                "name": "(不与其它活动同享)特价套餐",
+                "tips": "(不与其它活动同享)特价套餐"
+            },
+            {
+                "description": "特价披萨",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 16202152,
+                "name": "(不与其它活动同享)特价披萨",
+                "tips": "(不与其它活动同享)特价披萨"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15776181,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区育新街41号",
+        "bidding": "{\"index\":14,\"target\":{\"restaurantId\":1442851,\"weight\":50,\"probability\":8.416152000427246},\"come_from\":1,\"next\":{\"restaurantId\":1924501,\"weight\":10,\"probability\":11.360343933105469}}",
+        "closing_count_down": 0,
+        "description": " ",
+        "distance": 4377,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 39,
+        "id": 1442851,
+        "image_path": "https://fuss10.elemecdn.com/9/bc/f67306dc23f8a2a8e60c7391b2412png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.873865,
+        "longitude": 116.373894,
+        "max_applied_quantity_per_order": -1,
+        "name": "深夜食堂（夜宵送）",
+        "next_business_time": "19:00",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/04:00",
+            "19:00/23:55"
+        ],
+        "order_lead_time": 40,
+        "phone": "13371703402 13683348631",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 39
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "",
+        "rating": 4.3,
+        "rating_count": 144,
+        "recent_order_num": 336,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 5,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满22减5，满38减8，满50减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17354129,
+                "name": "满减优惠",
+                "tips": "满22减5，满38减8，满50减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15773368,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区真如镜胡同7号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "福娃小吃",
+        "distance": 2199,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 237086,
+        "image_path": "https://fuss10.elemecdn.com/2/59/c5688dce19c2ad80f8b12442044e9jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.923799,
+        "longitude": 116.380484,
+        "max_applied_quantity_per_order": -1,
+        "name": "福娃小吃",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:50/21:00"
+        ],
+        "order_lead_time": 36,
+        "phone": "13488858306",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费6元"
+        },
+        "promotion_info": "【上饿了么，领天降红包】\n1，顾客朋友们：您下单之后请您保持电话畅通，以便餐品及时送达。\n2，另发票为定额手撕，请知晓",
+        "rating": 4.5,
+        "rating_count": 58,
+        "recent_order_num": 170,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，开票订单金额40.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满25减3，满35减7",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17439543,
+                "name": "满减优惠",
+                "tips": "满25减3，满35减7"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15775332,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区廊房二条32号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1336,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1179986,
+        "image_path": "https://fuss10.elemecdn.com/f/f1/dabcc323df7bc010962c04309543cpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.8969218887584,
+        "longitude": 116.395556245288,
+        "max_applied_quantity_per_order": -1,
+        "name": "吉祥馄饨(大栅栏)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 36,
+        "phone": "13522139858",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费5元，满100免"
+        },
+        "promotion_info": "",
+        "rating": 4.4,
+        "rating_count": 22,
+        "recent_order_num": 102,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满20减17，满40减20，满60减26",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16457452,
+                "name": "满减优惠",
+                "tips": "满20减17，满40减20，满60减26"
+            },
+            {
+                "description": "16.9元特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17108590,
+                "name": "(不与其它活动同享)16.9元特价",
+                "tips": "(不与其它活动同享)16.9元特价"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16976355,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区振兴巷15号",
+        "description": "",
+        "distance": 2186,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 0,
+        "id": 945834,
+        "image_path": "https://fuss10.elemecdn.com/a/23/27806db5993040a8d7ac9fcbe7b0djpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.902866,
+        "longitude": 116.372978,
+        "max_applied_quantity_per_order": -1,
+        "name": "上上家（西单店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/24:00"
+        ],
+        "order_lead_time": 42,
+        "phone": "68013848",
+        "piecewise_agent_fee": {
+            "description": "配送费4元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费4元"
+        },
+        "promotion_info": "",
+        "rating": 4.4,
+        "rating_count": 664,
+        "recent_order_num": 4345,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额50.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满25减7，满50减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17682436,
+                "name": "满减优惠",
+                "tips": "满25减7，满50减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16040057,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区王府井图书大厦地下一层",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "新店开张，欢迎品尝！",
+        "distance": 1247,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 20,
+        "id": 404628,
+        "image_path": "https://fuss10.elemecdn.com/f/88/f541169310b99da98676e43e0fa50jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.9104402394413,
+        "longitude": 116.411869887867,
+        "max_applied_quantity_per_order": -1,
+        "name": "如意馄饨（王府井店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/21:00"
+        ],
+        "order_lead_time": 37,
+        "phone": "65122925",
+        "piecewise_agent_fee": {
+            "description": "配送费4元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费4元"
+        },
+        "promotion_info": "期待一份美味餐品，如同等待最心爱的人。天气寒冷，订餐高峰，车多人满，请理解送餐速度，大侠们耐心等待。任何订餐问题随时联系本餐厅，全天候热心解答，欢迎致电！因中午就餐人多，无法及时查看，如需订餐请拨打65122925",
+        "rating": 4.9,
+        "rating_count": 9,
+        "recent_order_num": 23,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减5",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16132953,
+                "name": "满减优惠",
+                "tips": "满50减5"
+            },
+            {
+                "description": "满40.0元赠送500ml饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 16195731,
+                "name": "满赠优惠",
+                "tips": "满40.0元赠送500ml饮料1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16096737,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单大秤钩胡同22号",
+        "bidding": "{\"index\":19,\"target\":{\"restaurantId\":1924501,\"weight\":10,\"probability\":11.360343933105469},\"come_from\":1,\"next\":{\"restaurantId\":1924501,\"weight\":10,\"probability\":11.360343933105469}}",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1778,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1924501,
+        "image_path": "https://fuss10.elemecdn.com/2/ff/5c20f916efa6de2bcd06822fe0b44png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.909397,
+        "longitude": 116.376556,
+        "max_applied_quantity_per_order": -1,
+        "name": "陕西面馆",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/22:30"
+        ],
+        "order_lead_time": 43,
+        "phone": "13671222064 13522477832",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "满20配送费5元，满100免"
+        },
+        "promotion_info": "满四十送饮料！！！",
+        "rating": 3.5,
+        "rating_count": 14,
+        "recent_order_num": 44,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    }
+]

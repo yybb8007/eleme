@@ -1,0 +1,143 @@
+
+	
+	<link rel="stylesheet" type="text/css" href="app/view/home/sweetfood/sweetfood.css"/>
+
+	<header>
+		<a ui-sref="back"><span><</span></a>
+		<div>甜品饮品</div>
+	</header>
+	
+	<nav>
+		<section class="nav1">
+			<span ng-click="change1()">甜品饮品</span>
+			<span class="span1"></span>
+			<div class="div1">
+				<div>
+					<ul>
+						<li ng-repeat="x in pro1">
+							<span></span>
+							<span ng-click="show($event)">{{x.name}}</span>
+							<span>
+								<span>{{x.count}}</span>
+								<span>></span>
+							</span>
+							<div>
+								<ul ng-repeat="y in x.sub_categories">
+									<li>
+										<span>{{y.name}}</span>
+										<span>{{y.count}}</span>
+									</li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		
+		</section>
+		<section class="nav2">
+			<span ng-click="change2()">排序</span>
+			<span class="span2"></span>
+			<div class="div2">
+				<ul>
+					<li>
+						<span></span>
+						<span>智能排序</span>
+					</li>
+					<li>
+						<span></span>
+						<span>距离最近</span>
+					</li>
+					<li>
+						<span></span>
+						<span>销量最高</span>
+					</li>
+					<li>
+						<span></span>
+						<span>起送价最低</span>
+					</li>
+					<li>
+						<span></span>
+						<span>配送速度最快</span>
+					</li>
+					<li>
+						<span></span>
+						<span>评分最高</span>
+					</li>
+				</ul>
+			</div>
+		
+		</section>
+		<section class="nav3">
+			<span ng-click="change3()">筛选</span>
+			<span class="span3"></span>
+			<div class="div3">
+				<div>
+					<ul>
+						<li>配送方式</li>
+						<li>
+							<span>不限</span>
+							<span>蜂鸟专送</span>
+						</li>
+						<li>优惠活动</li>
+						<li>商家属性(可多选)</li>
+						<li>
+							<span>
+								<span>品</span>
+								<span>品牌商家</span>
+							</span>
+							<span>
+								<span>保</span>
+								<span>外卖保</span>
+							</span>
+							<span>
+								<span>新</span>
+								<span>新店</span>
+							</span>
+						</li>
+						<li>
+							<span>
+								<span>票</span>
+								<span>开发票</span>
+							</span>
+							<span>
+								<span>付</span>
+								<span>在线支付</span>
+							</span>
+							<span>
+								<span>准</span>
+								<span>准时达</span>
+							</span>
+						</li>
+					</ul>
+					<div>
+						<span>清空</span>
+						<span>确定</span>
+					</div>
+				</div>
+			</div>
+		
+		</section>
+	</nav>
+	
+	<main>
+		<ul ng-repeat="z in pro">
+			<li><img src="{{z.image_path}}"/></li>
+			<li>
+				<p>{{z.name}}<span ng-if="z.supports[0].icon_name">{{z.supports[0].icon_name}}</span></p>
+				<p>
+					<span></span>
+					<span>{{z.rating}}</span>
+					<span>月售{{z.recent_order_num}}单</span>
+					<span>
+						<span ng-if="z.delivery_mode.text">{{z.delivery_mode.text}}</span>
+						<span ng-if="z.supports[1].name">{{z.supports[1].name}}</span>
+					</span>
+				</p>
+				<p>
+					<span>￥{{z.float_minimum_order_amount}}起送/配送费{{z.float_delivery_fee}}元</span>
+					<span>{{z.distance/1000}}km/<span>{{z.order_lead_time}}分钟</span></span>
+				</p>
+			</li>
+		</ul>
+	</main>

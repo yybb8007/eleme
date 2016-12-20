@@ -1,0 +1,143 @@
+<link rel="stylesheet" type="text/css" href="app/view/home/home.css"/>
+<link rel="stylesheet" type="text/css" href="app/common/swiper-3.4.0.min.css"/>
+<header>
+	<a ui-sref="search"><img src="app/view/home/img/search.png"/></a>
+	<span>东城区天安门城楼</span>
+	<a ui-sref="mine"><span>登陆</span></a>
+</header>
+
+<div class="home">
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<ul>
+					<li><a ui-sref="nicefood">
+							<img src="//fuss10.elemecdn.com/2/46/0e876ad94d7e028f9dec431975b22jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>美食</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="sweetfood">
+							<img src="//fuss10.elemecdn.com/e/01/7a293cef45e222b580ade71663bc9jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>甜品</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="shop">
+							<img src="//fuss10.elemecdn.com/8/c0/9cbe92b5fa3cc6f1171c8862b62d6jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>商店超市</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="breakfast">
+							<img src="//fuss10.elemecdn.com/7/75/8bc2b0a0f2533a7acda718427ad15jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>预定早餐</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="friut">
+							<img src="//fuss10.elemecdn.com/b/1d/47b4c50239fe576eb55b33481beabjpeg.jpeg?imageMogr/format/webp/"/>
+							<p>果蔬生鲜</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="new">
+							<img src="//fuss10.elemecdn.com/8/e2/df502aabc9e802080ae743ea2728fjpeg.jpeg?imageMogr/format/webp/"/>
+							<p>新店特惠</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="time">
+							<img src="//fuss10.elemecdn.com/d/5a/2567046c997fde753d005e5a526b6jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>准时达</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="fastfood">
+							<img src="//fuss10.elemecdn.com/d/fc/a5521b9088cf3e93a51197baf890cjpeg.jpeg?imageMogr/format/webp/"/>
+							<p>简餐</p>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="swiper-slide">
+				<ul>	
+					<li>
+						<a ui-sref="muchmoney">
+							<img src="//fuss10.elemecdn.com/8/9f/ed916d470adaba27eb11f2c7dcd38jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>土豪推荐</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="flowerCake">
+							<img src="//fuss10.elemecdn.com/2/68/48475d232d126fe780901608d431djpeg.jpeg?imageMogr/format/webp/"/>
+							<p>鲜花蛋糕</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="hamburger">
+							<img src="//fuss10.elemecdn.com/9/37/bed65a67bf2982d6cab32d8a0003fjpeg.jpeg?imageMogr/format/webp/"/>
+							<p>汉堡炸鸡</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="liaoli">
+							<img src="//fuss10.elemecdn.com/7/a4/8d646785afa3953d7f84db53f8cf6jpeg.jpeg?imageMogr/format/webp/" />
+							<p>日韩料理</p>
+						</a>
+					</li>
+					
+					<li>
+						<a ui-sref="mlt">
+							<img src="//fuss10.elemecdn.com/b/79/5d1097c246927ad73fa50dc7c7b47jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>麻辣烫</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="psym">
+							<img src="//fuss10.elemecdn.com/1/ea/24dd1b5f54e2eb85960017ba22d6djpeg.jpeg?imageMogr/format/webp/"/>
+							<p>披萨意面</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="cxc">
+							<img src="//fuss10.elemecdn.com/9/bb/e4d322fd794846fbb6dda7c2a84e7jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>川湘菜</p>
+						</a>
+					</li>
+					<li>
+						<a ui-sref="bzzd">
+							<img src="//fuss10.elemecdn.com/e/1b/e10f13396dfa4de42ac2bc1050bb1jpeg.jpeg?imageMogr/format/webp/"/>
+							<p>包子粥店</p>
+						</a>
+					</li>
+				</ul>
+			</div>
+			
+		</div>
+		<div class="swiper-pagination"></div>
+	</div>
+	 
+<main>
+		<ul ng-repeat="x in pro" ui-sref='shopping'>
+			<li><img src="{{x.image_path}}"/></li>
+			<li>
+				<p>{{x.name}}<span ng-if="x.supports[0]">{{x.supports[0].icon_name}}</span></p>
+				<p>
+					<span></span>
+					<span>{{x.rating}}</span>
+					<span>月售{{x.recent_order_num}}单</span>
+					<span>
+						<span ng-if="x.delivery_mode">{{x.delivery_mode.text}}</span>
+						<span ng-if="x.supports[1]">{{x.supports[1].name}}</span>
+					</span>
+				</p>
+				<p>
+					<span>￥{{x.float_minimum_order_amount}}起送/配送费{{x.float_delivery_fee}}元</span>
+					<span>{{x.distance/1000}}km/<span>{{x.order_lead_time}}分钟</span></span>
+				</p>
+			</li>
+		</ul>
+	</main>
+	
+</div>

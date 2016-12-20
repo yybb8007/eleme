@@ -1,0 +1,4675 @@
+[
+    {
+        "activities": [
+            {
+                "description": "满100减1",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16542644,
+                "name": "满减优惠",
+                "tips": "满100减1"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15843521,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区横二条59号",
+        "average_cost": "¥24/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1844,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1011759,
+        "image_path": "//fuss10.elemecdn.com/0/60/9681f79e7bab5b59cca5c2656e33ejpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.910797,
+        "longitude": 116.375907,
+        "max_applied_quantity_per_order": -1,
+        "name": "50岚",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:30"
+        ],
+        "order_lead_time": 36,
+        "phone": "18515856277",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "",
+        "rating": 4.9,
+        "rating_count": 405,
+        "recent_order_num": 893,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17467748,
+                "name": "满减优惠",
+                "tips": "满30减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15979622,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单北大街131号西单大悦城3楼B14号",
+        "average_cost": "¥23/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "西树泡芙 （金融街-西单店）",
+        "distance": 2099,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 113962,
+        "image_path": "//fuss10.elemecdn.com/e/0b/313583f44e6b83711a954d63ca339jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.91049,
+        "longitude": 116.37287,
+        "max_applied_quantity_per_order": -1,
+        "name": "西树泡芙（西单大悦城店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/20:30"
+        ],
+        "order_lead_time": 31,
+        "phone": "56034150",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.8,
+        "rating_count": 260,
+        "recent_order_num": 642,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减16，满50减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17264608,
+                "name": "满减优惠",
+                "tips": "满30减16，满50减30"
+            },
+            {
+                "description": "帝都5折＊暖暖下午茶",
+                "icon_color": "f07373",
+                "icon_name": "帝",
+                "id": 17572910,
+                "name": "(不与其它活动同享)帝都5折＊暖暖下午茶",
+                "tips": "(不与其它活动同享)帝都5折＊暖暖下午茶"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15707789,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区忠实里南街6号楼1层3号",
+        "average_cost": "¥46/人",
+        "description": "老婆很芒水果千层蛋零添加，所有食材选自世界级原料，由新加坡顶级蛋糕师培训指导，北京全城1小时送达，6寸以上蛋糕需提前两小时预定。100元以上为机打发票，100元以下手撕发票。请大家看好重量，不要随意想象盒子的大小哦！",
+        "distance": 4397,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 0,
+        "id": 1404007,
+        "image_path": "//fuss10.elemecdn.com/4/76/bffbe588abbeb3535c504e60be1d4jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.895004,
+        "longitude": 116.445674,
+        "max_applied_quantity_per_order": -1,
+        "name": "老婆很芒",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/22:00"
+        ],
+        "order_lead_time": 59,
+        "phone": "17601683285",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "老婆很芒所有产品不添加任何防腐剂添加剂香精色素。由新加坡顶级蛋糕师培训指导，苛刻要求保障每款产品极佳的口感。关于我们：所有蛋糕下单后即定即做  坚持！精选优质原材料，基地直送新鲜水果，确保食材新鲜。售后！配有着专业的在线售后客服人员，及时了解亲们反应的情况，进行及时的售后处理。",
+        "rating": 4.6,
+        "rating_count": 479,
+        "recent_order_num": 1846,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "特惠6折，全国抢购！！！",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 17130478,
+                "name": "(不与其它活动同享)特惠6折，全国抢购！！！",
+                "tips": "(不与其它活动同享)特惠6折，全国抢购！！！"
+            },
+            {
+                "description": "十二特惠，5折开抢！！！",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 17130239,
+                "name": "(不与其它活动同享)十二特惠，5折开抢！！！",
+                "tips": "(不与其它活动同享)十二特惠，5折开抢！！！"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17252374,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京西城区西单北大街176号汉光百货商场八层836号",
+        "average_cost": "¥33/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "周黑鸭（北京汉光百货店）",
+        "distance": 1965,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 20,
+        "id": 1532959,
+        "image_path": "//fuss10.elemecdn.com/0/6b/d1dc49cb6d806c71e47cf820b8b74jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.90938,
+        "longitude": 116.37436,
+        "max_applied_quantity_per_order": -1,
+        "name": "周黑鸭（北京汉光百货店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 34,
+        "phone": "13835098415",
+        "piecewise_agent_fee": {
+            "description": "配送费4元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费4元"
+        },
+        "promotion_info": "您好，订餐须知：1.客服电话10105757。2.请您保持电话畅通，以便送餐员能及时联系您。3.美食+餐品配送需要一定时间，为了确保您能及时用餐，希望您提前30分钟以上时间预定下单，避开高峰时期。",
+        "rating": 4.8,
+        "rating_count": 52,
+        "recent_order_num": 144,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减1，满58减2，满88减3",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14541605,
+                "name": "满减优惠",
+                "tips": "满38减1，满58减2，满88减3"
+            },
+            {
+                "description": "满38.0元赠送小点心1份，满88.0元赠送饮品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14542333,
+                "name": "满赠优惠",
+                "tips": "满38.0元赠送小点心1份，满88.0元赠送饮品1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15708048,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西四南大街105号",
+        "average_cost": "¥28/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2341,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 1477201,
+        "image_path": "//fuss10.elemecdn.com/f/93/dbd228687f1888253bba5358c31e1png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.919219,
+        "longitude": 116.373489,
+        "max_applied_quantity_per_order": -1,
+        "name": "顺鑫古早味",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/22:00"
+        ],
+        "order_lead_time": 30,
+        "phone": "18210561160 15810553170",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "顺鑫古早味纯手工蛋糕坊健康无添加，期待您的光临！",
+        "rating": 4.7,
+        "rating_count": 54,
+        "recent_order_num": 195,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15980582,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东长安街1号东方新天地B1层FF05",
+        "average_cost": "¥27/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "浆宝",
+        "distance": 1472,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 766372,
+        "image_path": "//fuss10.elemecdn.com/9/82/470d1be0a6374d64af78947fa9771png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.90944,
+        "longitude": 116.414638,
+        "max_applied_quantity_per_order": -1,
+        "name": "浆宝（东方广场店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 28,
+        "phone": "010-88862932",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "",
+        "rating": 4.6,
+        "rating_count": 22,
+        "recent_order_num": 114,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满20减13，满90减20，满150减31",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17272082,
+                "name": "满减优惠",
+                "tips": "满20减13，满90减20，满150减31"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15844698,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "沙滩后街13号",
+        "average_cost": "¥47/人",
+        "description": "",
+        "distance": 1916,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 0,
+        "id": 1357815,
+        "image_path": "//fuss10.elemecdn.com/d/86/704a9f0e3417468bdb78297d08c1bpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.925547,
+        "longitude": 116.402994,
+        "max_applied_quantity_per_order": -1,
+        "name": "榴莲千层盒子",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:30/22:00"
+        ],
+        "order_lead_time": 59,
+        "phone": "01057105975",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 204,
+        "recent_order_num": 1498,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减8，满50减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16794606,
+                "name": "满减优惠",
+                "tips": "满30减8，满50减10"
+            },
+            {
+                "description": "5折美食",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 17468833,
+                "name": "(不与其它活动同享)5折美食",
+                "tips": "(不与其它活动同享)5折美食"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15841907,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区豆瓣胡同",
+        "average_cost": "¥27/人",
+        "description": "日出茶太（chatime），源自台湾的顶级茶饮品牌，店铺遍及全球。秉持“健康・精致“理念，为您提供多样选择的香浓奶茶和新鲜果茶。Good Tea Good Time！",
+        "distance": 3739,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 58,
+        "id": 93411,
+        "image_path": "//fuss10.elemecdn.com/4/56/135e706f6a15026fa20876a27dba0png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.929172,
+        "longitude": 116.432331,
+        "max_applied_quantity_per_order": -1,
+        "name": "日出茶太豆瓣店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "11:00/20:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "17701316805",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 58
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "欢迎品尝各式台湾经典奶茶、小吃和炸鸡哟……^_^。匠人之心、良心品质！值得品尝哟……^_^",
+        "rating": 4.8,
+        "rating_count": 93,
+        "recent_order_num": 250,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额70.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17028461,
+                "name": "满减优惠",
+                "tips": "满50减20"
+            },
+            {
+                "description": "饿了么携手哈根达斯推出（6折）小纸杯活动",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17944925,
+                "name": "(不与其它活动同享)饿了么携手哈根达斯推出（6折）小纸杯活动",
+                "tips": "(不与其它活动同享)饿了么携手哈根达斯推出（6折）小纸杯活动"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15637481,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "王府井大街138号新东安市场地下一层KB1-2店铺",
+        "average_cost": "¥46/人",
+        "description": "",
+        "distance": 1408,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 30,
+        "id": 935787,
+        "image_path": "//fuss10.elemecdn.com/8/d4/e16e215adb6d7f42334c45108256fpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.9151342250734,
+        "longitude": 116.411741887511,
+        "max_applied_quantity_per_order": -1,
+        "name": "哈根达斯(北京新东安新店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/19:00"
+        ],
+        "order_lead_time": 45,
+        "phone": "4009870870",
+        "piecewise_agent_fee": {
+            "description": "配送费9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 30
+                }
+            ],
+            "tips": "配送费9元"
+        },
+        "promotion_info": "注意事项：\r\n1.收到产品后请尽快食用，或放入冰箱冷冻保存。\r\n2.包装内的干冰-70摄氏度，不可用手触摸或食用，任其自然挥发。\r\n3.近期多地会遇到大雨或暴雨等恶劣天气，受此影响配送人员可能会延长您商品的配送时间，给您带来的不便，敬请谅解！如需协助，请拨打4009870870客服专线，我们会在第一时间回应您的需求。\r\n4.蛋糕冰淇淋属特殊商品，暂不支持写祝福语！",
+        "rating": 4.7,
+        "rating_count": 6,
+        "recent_order_num": 28,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17467748,
+                "name": "满减优惠",
+                "tips": "满30减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15705474,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单大悦城三层",
+        "average_cost": "¥24/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "摩提工房（西单大悦城店）\n",
+        "distance": 2113,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 571062,
+        "image_path": "//fuss10.elemecdn.com/3/c7/781297ddf805efd305af097023987jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.910266,
+        "longitude": 116.372673,
+        "max_applied_quantity_per_order": -1,
+        "name": "摩提工房（西单大悦城店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/20:30"
+        ],
+        "order_lead_time": 35,
+        "phone": "010-56223002",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 2,
+        "recent_order_num": 40,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减3，满60减6",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16187968,
+                "name": "满减优惠",
+                "tips": "满30减3，满60减6"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16088266,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区王府井大街219号-4至9层101内1层K1002K1003",
+        "average_cost": "¥26/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1361,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1910670,
+        "image_path": "//fuss10.elemecdn.com/c/e6/888ba86aa72c2b3df4a7c4c4f5274jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.915893,
+        "longitude": 116.410453,
+        "max_applied_quantity_per_order": -1,
+        "name": "御质贡茶",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:30/19:50"
+        ],
+        "order_lead_time": 39,
+        "phone": "18211087522",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "本店不支持退单，除非您选的饮品我们售尽。饮品制作时间较短，我们看到单子都会第一时间制作。饮品可选正常冰，少冰，去冰。正常糖，少糖，半糖，微糖，无糖。如有要求请加备注，默认正常冰正常糖。奶盖有可能在配送过程中由于过于颠簸导致奶盖和茶水融在一起，如果出现请谅解。高峰时间请提前下单。",
+        "rating": 3.8,
+        "rating_count": 33,
+        "recent_order_num": 145,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减13，满50减18，满100减25",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17265844,
+                "name": "满减优惠",
+                "tips": "满30减13，满50减18，满100减25"
+            },
+            {
+                "description": "三拼特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17266502,
+                "name": "(不与其它活动同享)三拼特价",
+                "tips": "(不与其它活动同享)三拼特价"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15844360,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17266133,
+                "name": "(不与其它活动同享)特价",
+                "tips": "(不与其它活动同享)特价"
+            },
+            {
+                "description": "1元香蕉班戟蛋糕",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 16324513,
+                "name": "(不与其它活动同享)1元香蕉班戟蛋糕",
+                "tips": "(不与其它活动同享)1元香蕉班戟蛋糕"
+            }
+        ],
+        "address": "崇文区兴隆都市馨园2号楼",
+        "average_cost": "¥53/人",
+        "description": "",
+        "distance": 1973,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 60,
+        "id": 1245189,
+        "image_path": "//fuss10.elemecdn.com/b/5a/12b1d5d220f7cceb9a4748325f58dpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.896581,
+        "longitude": 116.414089,
+        "max_applied_quantity_per_order": -1,
+        "name": "水果千层盒装蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:20/23:30"
+        ],
+        "order_lead_time": 61,
+        "phone": "13501031745",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 60
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "",
+        "rating": 4.6,
+        "rating_count": 23,
+        "recent_order_num": 113,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "经典港式套餐，18元特惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17166145,
+                "name": "(不与其它活动同享)经典港式套餐，18元特惠",
+                "tips": "(不与其它活动同享)经典港式套餐，18元特惠"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17211563,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区西单北大街华威购物中心3层",
+        "average_cost": "¥25/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1991,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1856938,
+        "image_path": "//fuss10.elemecdn.com/0/96/00c80c694eace08d4a0d991c619ddjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.91148,
+        "longitude": 116.37429,
+        "max_applied_quantity_per_order": -1,
+        "name": "米芝莲（西单华威店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/20:00"
+        ],
+        "order_lead_time": 46,
+        "phone": "17006691313",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 21,
+        "recent_order_num": 47,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减4，满50减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17296072,
+                "name": "满减优惠",
+                "tips": "满30减4，满50减8"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15982823,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东城区东四北大街383号",
+        "average_cost": "¥32/人",
+        "description": "亲们~来小店坐坐哦么么哒",
+        "distance": 2671,
+        "float_delivery_fee": 7,
+        "float_minimum_order_amount": 30,
+        "id": 1492655,
+        "image_path": "//fuss10.elemecdn.com/e/eb/b84083e9a4ae20ec7c864cb071053png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.927479,
+        "longitude": 116.41719,
+        "max_applied_quantity_per_order": -1,
+        "name": "四季甜品",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "11:10/22:00"
+        ],
+        "order_lead_time": 35,
+        "phone": "18611590061",
+        "piecewise_agent_fee": {
+            "description": "配送费7元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 7,
+                    "price": 30
+                }
+            ],
+            "tips": "配送费7元"
+        },
+        "promotion_info": "最好吃最正宗最纯天然最用心的甜品都在这里喽~感谢每一位支持与喜爱四季甜品的小伙伴们~2016年的最后一个月让四季甜品陪你度过吧~",
+        "rating": 4.2,
+        "rating_count": 70,
+        "recent_order_num": 150,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15638304,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东方广场东方新天地地下一层",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1515,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1195247,
+        "image_path": "//fuss10.elemecdn.com/4/f6/8e760937b2d0e847a7c516c365d25jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.909572,
+        "longitude": 116.415138,
+        "max_applied_quantity_per_order": -1,
+        "name": "茶町叮（东方店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 40,
+        "phone": "15110209093",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "",
+        "rating": 5,
+        "rating_count": 2,
+        "recent_order_num": 49,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "优惠折扣",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17753551,
+                "name": "(不与其它活动同享)优惠折扣",
+                "tips": "(不与其它活动同享)优惠折扣"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17645442,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京东城区崇文门外大街18号B1－21号",
+        "average_cost": "¥27/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2375,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 1945536,
+        "image_path": "//fuss10.elemecdn.com/4/be/a175245622f2582e727f5e58f5edbpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.89846,
+        "longitude": 116.42171,
+        "max_applied_quantity_per_order": -1,
+        "name": "贝尔多爸爸泡芙（崇文门国瑞城店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/22:00"
+        ],
+        "order_lead_time": 31,
+        "phone": "15101015928",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.4,
+        "rating_count": 39,
+        "recent_order_num": 100,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减15，满200减30，满300减50",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16311570,
+                "name": "满减优惠",
+                "tips": "满100减15，满200减30，满300减50"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15843790,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东城区崇文门外大街5号新世界一层",
+        "average_cost": "¥50/人",
+        "description": " ",
+        "distance": 2216,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1112108,
+        "image_path": "//fuss10.elemecdn.com/f/f4/9feb995203c88310774ecc33a6539png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.896704,
+        "longitude": 116.417983,
+        "max_applied_quantity_per_order": -1,
+        "name": "恋尚cake（崇文门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "18611536818",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "定制所有套餐蛋糕，生日帽，蜡烛，餐具均有免费赠送，敬请亲爱的客户放心购买，谢谢惠顾，我们会以最好的品质，服务回馈新老客户",
+        "rating": 5,
+        "rating_count": 2,
+        "recent_order_num": 36,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满89减5，满119减10，满169减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17529913,
+                "name": "满减优惠",
+                "tips": "满89减5，满119减10，满169减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15706541,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区崇文门外大街",
+        "average_cost": "¥63/人",
+        "description": "欢迎光临本店，接单后现场制作保证新鲜，优惠本市最低价包邮，可供顾客参考比对。",
+        "distance": 2739,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 38,
+        "id": 1015753,
+        "image_path": "//fuss10.elemecdn.com/2/ea/0d7b3a90e1f3cb50c9b736c34849cjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.891479,
+        "longitude": 116.420143,
+        "max_applied_quantity_per_order": -1,
+        "name": "千层蛋糕甜品店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 69,
+        "phone": "15510609977",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 38
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "进店必看：亲们收到货后请核对您购买的物品对不对，请当着快递员开箱验货，如果物品有损坏请亲拒收，无论您对我们哪方面有不满意见，请您第一时间联系我们请不要轻易给出中差评，相信我们会让您满意而归",
+        "rating": 4.5,
+        "rating_count": 19,
+        "recent_order_num": 96,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额168.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15982850,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "华威大厦 西城区西单北大街130-152号6层1-8号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1966,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1515887,
+        "image_path": "//fuss10.elemecdn.com/c/76/fc845c51007d581354b796297e274jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.911675,
+        "longitude": 116.374623,
+        "max_applied_quantity_per_order": -1,
+        "name": "耳目一新鲜榨水吧",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "11:00/20:30"
+        ],
+        "order_lead_time": 42,
+        "phone": "18519763889",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "不加糖、不加水、无勾兑、无添加。亲眼目睹您的健康！\n本店所有产品全部为鲜榨，建议饮品出品30分钟以内饮用完毕。\n如购买10杯以上者，可直接联系店家！18519763889\n每天一杯鲜榨果汁，爱自己，关注健康！",
+        "rating": 4.9,
+        "rating_count": 1,
+        "recent_order_num": 34,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17580497,
+                "name": "满减优惠",
+                "tips": "满30减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17232449,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区东中街9号地下一层EA9A号",
+        "description": "",
+        "distance": 4691,
+        "float_delivery_fee": 12,
+        "float_minimum_order_amount": 45,
+        "id": 2086359,
+        "image_path": "//fuss10.elemecdn.com/7/56/8727e2994c617fa7b25e8efc1ee2apng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.938691,
+        "longitude": 116.436288,
+        "max_applied_quantity_per_order": -1,
+        "name": "幸福咖啡馆",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/20:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "15810255837",
+        "piecewise_agent_fee": {
+            "description": "配送费12元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 12,
+                    "price": 45
+                }
+            ],
+            "tips": "配送费12元"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 3,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减20，满100减35",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17825900,
+                "name": "满减优惠",
+                "tips": "满30减20，满100减35"
+            },
+            {
+                "description": "半价狂欢节",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17825620,
+                "name": "(不与其它活动同享)半价狂欢节",
+                "tips": "(不与其它活动同享)半价狂欢节"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16821666,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "帝都5折＊暖暖下午茶",
+                "icon_color": "f07373",
+                "icon_name": "帝",
+                "id": 17572910,
+                "name": "(不与其它活动同享)帝都5折＊暖暖下午茶",
+                "tips": "(不与其它活动同享)帝都5折＊暖暖下午茶"
+            },
+            {
+                "description": "满100.0元赠送进口香蕉班戟1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17267337,
+                "name": "满赠优惠",
+                "tips": "满100.0元赠送进口香蕉班戟1份"
+            }
+        ],
+        "address": "东城区建国门内大街恒基中心",
+        "average_cost": "¥41/人",
+        "description": "本店所有蛋糕接单现做，请提前2小时订购，3小时内全北京送达。原料大多选用进口（英国原装进口动物奶油、意大利原装进口马斯卡彭、澳大利亚原装进口全脂牛奶），确保极佳的口感。给您与家人、朋友生日送上爱与健康、祝福。",
+        "distance": 2638,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 60,
+        "id": 1919018,
+        "image_path": "//fuss10.elemecdn.com/9/f4/da7e8612753fe7c58fcb616345a8apng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.907018,
+        "longitude": 116.428235,
+        "max_applied_quantity_per_order": -1,
+        "name": "灰姑娘千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:20/23:30"
+        ],
+        "order_lead_time": 30,
+        "phone": "15210785083",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 60
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "本店所有蛋糕接单现做，请提前2小时订购，3小时内全北京送达。原料大多选用进口（英国原装进口动物奶油、意大利原装进口马斯卡彭、澳大利亚原装进口全脂牛奶），确保极佳的口感。给您与家人、朋友生日送上爱与健康、祝福。",
+        "rating": 4.7,
+        "rating_count": 30,
+        "recent_order_num": 107,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额200.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15638915,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区双槐里小区6号楼底商",
+        "description": "",
+        "distance": 3731,
+        "float_delivery_fee": 7,
+        "float_minimum_order_amount": 0,
+        "id": 1385964,
+        "image_path": "//fuss10.elemecdn.com/5/6e/0a6788e1a3e5ca7d6a9b8154576cepng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.882255,
+        "longitude": 116.370724,
+        "max_applied_quantity_per_order": -1,
+        "name": "美佳美千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/21:30"
+        ],
+        "order_lead_time": 29,
+        "phone": "15117938472",
+        "piecewise_agent_fee": {
+            "description": "配送费7元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 7,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费7元"
+        },
+        "promotion_info": "天然淡奶油孕妇可食用 下单2-4小时内送达 品质经营 诚信服务 节假日或恶劣天气 略有延误",
+        "rating": 0,
+        "rating_count": 27,
+        "recent_order_num": 89,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16416841,
+                "name": "满减优惠",
+                "tips": "满50减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15913897,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区国瑞城中区西部地下二层C-3号单元广德惠普便民菜市场B062",
+        "description": "100%法国进口动物奶油精心制作，100%的无添加，五环内正常2-3小时送达，部分偏远地区顾客可先来电沟通送达时间！理解万岁！",
+        "distance": 2479,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1416130,
+        "image_path": "//fuss10.elemecdn.com/e/89/16d2efd80375461b3f5ae61362ca1png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.898401,
+        "longitude": 116.423057,
+        "max_applied_quantity_per_order": -1,
+        "name": "纯粹味觉千层榴莲蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/22:00"
+        ],
+        "order_lead_time": 22,
+        "phone": "13161783136",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "",
+        "rating": 5,
+        "rating_count": 4,
+        "recent_order_num": 39,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减5",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16792887,
+                "name": "满减优惠",
+                "tips": "满50减5"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17223738,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区交道口南大街53号1幢等2幢",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 3337,
+        "float_delivery_fee": 12,
+        "float_minimum_order_amount": 0,
+        "id": 2064246,
+        "image_path": "//fuss10.elemecdn.com/6/4d/61feb0f51882b88a275d50606a8f9jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.937648,
+        "longitude": 116.408462,
+        "max_applied_quantity_per_order": -1,
+        "name": "KATCHUP",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "18210720871",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费3元，20至100付8元，不满20付12元",
+            "extra_fee": 3,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 12,
+                    "price": 0
+                },
+                {
+                    "fee": 8,
+                    "price": 20
+                },
+                {
+                    "fee": 3,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥8"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 2,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15705854,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区地安门西大街2号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "已开通在线支付，欢迎订购",
+        "distance": 2709,
+        "float_delivery_fee": 11,
+        "float_minimum_order_amount": 0,
+        "id": 770959,
+        "image_path": "//fuss10.elemecdn.com/1/3a/f66aff4ff7c5a831b22ef9077fc9djpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.933199,
+        "longitude": 116.395773,
+        "max_applied_quantity_per_order": -1,
+        "name": "SARNA Coffee",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/22:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "010-64057578",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费2元，20至100付7元，不满20付11元",
+            "extra_fee": 2,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 11,
+                    "price": 0
+                },
+                {
+                    "fee": 7,
+                    "price": 20
+                },
+                {
+                    "fee": 2,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥7"
+        },
+        "promotion_info": "亲们，享受曼妙咖啡时光，尽在SARNACoffe！",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 10,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减5",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 18061876,
+                "name": "满减优惠",
+                "tips": "满30减5"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16285862,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单北大街130号五层北区11号",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2026,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 1962128,
+        "image_path": "//fuss10.elemecdn.com/e/d5/73d9e963887a3622a3dbd40fb2ab0jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.912988,
+        "longitude": 116.374252,
+        "max_applied_quantity_per_order": -1,
+        "name": "猴子咖啡",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 50,
+        "phone": "66020887",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.3,
+        "rating_count": 1,
+        "recent_order_num": 14,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减15，满200减30，满300减50",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16311647,
+                "name": "满减优惠",
+                "tips": "满100减15，满200减30，满300减50"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15981580,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东城区东直门内大街124号",
+        "average_cost": "¥50/人",
+        "description": " ",
+        "distance": 4429,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1112110,
+        "image_path": "//fuss10.elemecdn.com/f/82/f2c8b0396ced82a1e9ac2cdb2a7c6png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.94078,
+        "longitude": 116.42846,
+        "max_applied_quantity_per_order": -1,
+        "name": "恋尚cake（三里屯店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 25,
+        "phone": "18611536818",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "定制所有套餐蛋糕，生日帽，蜡烛，餐具均有免费赠送，敬请亲爱的客户放心购买，谢谢惠顾，我们会以最好的品质，服务回馈新老客户",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 22,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满160减28",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17749565,
+                "name": "满减优惠",
+                "tips": "满160减28"
+            },
+            {
+                "description": "6英寸榴芒双拼千层8折优惠！",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17794727,
+                "name": "(不与其它活动同享)6英寸榴芒双拼千层8折优惠！",
+                "tips": "(不与其它活动同享)6英寸榴芒双拼千层8折优惠！"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17994456,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "8英寸巧克力千层7折特价促销！",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17794656,
+                "name": "(不与其它活动同享)8英寸巧克力千层7折特价促销！",
+                "tips": "(不与其它活动同享)8英寸巧克力千层7折特价促销！"
+            },
+            {
+                "description": "9只班戟下午茶只需99！",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17794465,
+                "name": "(不与其它活动同享)9只班戟下午茶只需99！",
+                "tips": "(不与其它活动同享)9只班戟下午茶只需99！"
+            }
+        ],
+        "address": "北京市东城区国瑞城中区西部地下二层C-3单元广德惠普便民菜市场B062",
+        "average_cost": "¥80/人",
+        "description": "",
+        "distance": 2843,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1827370,
+        "image_path": "//fuss10.elemecdn.com/1/b4/1436031da0a05ab270ae390c7b282png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.896831,
+        "longitude": 116.426811,
+        "max_applied_quantity_per_order": -1,
+        "name": "蜜桃屋榴莲蛋糕  千层甜品",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/23:00"
+        ],
+        "order_lead_time": 43,
+        "phone": "15988668482",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "所有产品下单后现做，送货时间根据距离远近有所不同，正常为1到3小时，雨雪天气除外。",
+        "rating": 4.6,
+        "rating_count": 16,
+        "recent_order_num": 79,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减20，满200减40，满300减60",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17524291,
+                "name": "满减优惠",
+                "tips": "满100减20，满200减40，满300减60"
+            },
+            {
+                "description": "满100.0元赠送新年红包1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17524444,
+                "name": "满赠优惠",
+                "tips": "满100.0元赠送新年红包1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15775517,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "店铺3周年庆酬宾回馈",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17524396,
+                "name": "(不与其它活动同享)店铺3周年庆酬宾回馈",
+                "tips": "(不与其它活动同享)店铺3周年庆酬宾回馈"
+            }
+        ],
+        "address": "北京市东城区交道口南大街50号",
+        "average_cost": "¥77/人",
+        "description": "生日聚汇在为用户带来喜悦与幸福的同时，更在乎食材的安全、可靠，我们只选用进口天然食材，且每一款产品都来自至少拥有十年功底的蛋糕艺作家雕琢而成。 1、全场蛋糕新鲜现做，下单后，2小时内极速送达。 2、凡订购生日聚汇产品，可随机获得我们送出的神秘礼物一份。",
+        "distance": 3476,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1218937,
+        "image_path": "//fuss10.elemecdn.com/a/a3/9e35d732580a0fe8d406ff3b70febpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.93888,
+        "longitude": 116.4088,
+        "max_applied_quantity_per_order": -1,
+        "name": "生日聚汇（总店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/22:00"
+        ],
+        "order_lead_time": 43,
+        "phone": "13341025843 01056142866",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "1、全场蛋糕新鲜现做，下单后，2小时内极速送达到家。 2、凡订购生日聚汇产品，可随机获得我们送出的神秘礼物一份。 3、部分产品采用应季水果点缀，会随季节变化有所调整，请以实物为准。 4、可根据个人或者企业需求订制婚礼蛋糕，多层蛋糕。 5、24小时咨询电话13911248808",
+        "rating": 3.5,
+        "rating_count": 13,
+        "recent_order_num": 52,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减13，满70减25",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14467309,
+                "name": "满减优惠",
+                "tips": "满30减13，满70减25"
+            },
+            {
+                "description": "特价抢购美味班戟",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17928525,
+                "name": "(不与其它活动同享)特价抢购美味班戟",
+                "tips": "(不与其它活动同享)特价抢购美味班戟"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15026846,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满160.0元赠送奥利奥班戟1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17506474,
+                "name": "满赠优惠",
+                "tips": "满160.0元赠送奥利奥班戟1份"
+            },
+            {
+                "description": "特价37.99",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 14584453,
+                "name": "(不与其它活动同享)特价37.99",
+                "tips": "(不与其它活动同享)特价37.99"
+            }
+        ],
+        "address": "北京市朝阳区朝外大街乙6号3层03012",
+        "average_cost": "¥38/人",
+        "description": "",
+        "distance": 4988,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 30,
+        "id": 1792509,
+        "image_path": "//fuss10.elemecdn.com/1/2d/727273470c03e51134bdcff7179e9png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.919629,
+        "longitude": 116.454174,
+        "max_applied_quantity_per_order": -1,
+        "name": "真格甜品",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/20:00"
+        ],
+        "order_lead_time": 43,
+        "phone": "15811126767",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 30
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "我们的所有产品选用新鲜进口水果，世界级原料，不添加任何香精防腐剂。甜品创意设计师是国际甜点大师Michel Willaume的学生，现任多家烘焙平台签约授课老师。",
+        "rating": 4.5,
+        "rating_count": 37,
+        "recent_order_num": 212,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17218651,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区建国门内大街18号恒基中心一层",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2651,
+        "float_delivery_fee": 11,
+        "float_minimum_order_amount": 0,
+        "id": 2068002,
+        "image_path": "//fuss10.elemecdn.com/6/88/109928d61f9d0af90f97fd600c796jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.90651,
+        "longitude": 116.42833,
+        "max_applied_quantity_per_order": -1,
+        "name": "咖啡陪你caffebene（恒基中心店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:30"
+        ],
+        "order_lead_time": 0,
+        "phone": "010-65187846",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费2元，20至100付7元，不满20付11元",
+            "extra_fee": 2,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 11,
+                    "price": 0
+                },
+                {
+                    "fee": 7,
+                    "price": 20
+                },
+                {
+                    "fee": 2,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥7"
+        },
+        "promotion_info": "",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减10，满50减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 18021861,
+                "name": "满减优惠",
+                "tips": "满30减10，满50减15"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16821414,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区半步桥街甲4号及4号",
+        "description": "北京味香多成立于1998年9月，是一家以烘焙、现场制售面包、生日蛋糕。无糖木糖醇蛋糕各种中点，西点、老人过寿寿桃、加网络销售为主的实体企业店。\n   公司全面通过ISO9001、QS和HACCP认证，形成了蛋糕、面包、宴会点心的采购、生产、运输、销售全过程严格规范的质量管理体系",
+        "distance": 4449,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1906866,
+        "image_path": "//fuss10.elemecdn.com/e/8a/1b9bf83ab1346edc0b3474520208epng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.875762,
+        "longitude": 116.368087,
+        "max_applied_quantity_per_order": -1,
+        "name": "味香多西饼店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/22:30"
+        ],
+        "order_lead_time": 0,
+        "phone": "18511351915 63572313",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "为了保持蛋糕的新鲜度，本店所有蛋糕都是下完订单以后才制作配送",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 9,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减2",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17468383,
+                "name": "满减优惠",
+                "tips": "满50减2"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16819168,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区东长安街1号北京东方广场东方新天地商场地铁层DE15号店铺",
+        "average_cost": "¥24/人",
+        "description": "",
+        "distance": 1433,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 20,
+        "id": 1857908,
+        "image_path": "//fuss10.elemecdn.com/f/d8/8426e02801793f54d7ff97254b449jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": true,
+        "latitude": 39.90952,
+        "longitude": 116.41418,
+        "max_applied_quantity_per_order": -1,
+        "name": "摩提工房（东方广场店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "010-56240882",
+        "piecewise_agent_fee": {
+            "description": "配送费4元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费4元"
+        },
+        "promotion_info": "",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满300减100，满500减200",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17518845,
+                "name": "满减优惠",
+                "tips": "满100减50，满300减100，满500减200"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17217191,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京东城区东单北大街60号",
+        "description": "",
+        "distance": 2632,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 2044534,
+        "image_path": "//fuss10.elemecdn.com/7/39/f621cd787c6aa304d9398a8991548png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.919945,
+        "longitude": 116.424662,
+        "max_applied_quantity_per_order": -1,
+        "name": "班加拉亚榴莲甜品（东单店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "89418856",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满20减5，满35减7，满50减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17032743,
+                "name": "满减优惠",
+                "tips": "满20减5，满35减7，满50减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16864526,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京东城区新中东街3号院1号楼516室",
+        "description": "",
+        "distance": 4894,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 29,
+        "id": 2047593,
+        "image_path": "//fuss10.elemecdn.com/a/4c/8d88ceba5698f95dc139486d29f0ajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.9366155802806,
+        "longitude": 116.441939317423,
+        "max_applied_quantity_per_order": -1,
+        "name": "Taste咖啡慢培店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "18500152798",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 29
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "古早味经典22疯抢",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17665501,
+                "name": "(不与其它活动同享)古早味经典22疯抢",
+                "tips": "(不与其它活动同享)古早味经典22疯抢"
+            },
+            {
+                "description": "古早味超人气46专享",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17665081,
+                "name": "(不与其它活动同享)古早味超人气46专享",
+                "tips": "(不与其它活动同享)古早味超人气46专享"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15842870,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "古早味超值58专享",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17664302,
+                "name": "(不与其它活动同享)古早味超值58专享",
+                "tips": "(不与其它活动同享)古早味超值58专享"
+            },
+            {
+                "description": "帝都5折＊暖暖下午茶",
+                "icon_color": "f07373",
+                "icon_name": "帝",
+                "id": 17572910,
+                "name": "(不与其它活动同享)帝都5折＊暖暖下午茶",
+                "tips": "(不与其它活动同享)帝都5折＊暖暖下午茶"
+            },
+            {
+                "description": "古早味7折活动专享",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 17506847,
+                "name": "(不与其它活动同享)古早味7折活动专享",
+                "tips": "(不与其它活动同享)古早味7折活动专享"
+            }
+        ],
+        "address": "北京市东城区安定门内大街129号",
+        "average_cost": "¥40/人",
+        "description": "贝尔良品古早味运用古老的手法和传统的工艺，令您找到”小时候的味道！“贝尔良品坚持选用法国、瑞士等进口牛奶，香港低筋面粉，澳大利亚进口奶油及奶酪等新鲜食材。顶级天然原料、低糖低油配方，低温烘焙两个小时不破坏食材味道，杜绝一切添加剂，坚持为您和您的家人打造每一份健康！",
+        "distance": 4180,
+        "float_delivery_fee": 29,
+        "float_minimum_order_amount": 50,
+        "id": 774999,
+        "image_path": "//fuss10.elemecdn.com/9/e6/5a3cf30552c27910e2e121c699644jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9455412251838,
+        "longitude": 116.408122515,
+        "max_applied_quantity_per_order": -1,
+        "name": "古早味（安定门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:30/19:30"
+        ],
+        "order_lead_time": 37,
+        "phone": "13311427705",
+        "piecewise_agent_fee": {
+            "description": "配送费29元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 29,
+                    "price": 50
+                }
+            ],
+            "tips": "配送费29元"
+        },
+        "promotion_info": "温馨提示：\n尊敬的客户，大家好！餐点高峰期（11：00-13:00，17:00-19:30）订餐人数较多，为了避免耽误您用餐，请尽量提前下单。另外送餐时间可能比预计送达时间晚15-20分钟，如遇雨雪天气时间可能会更长一些，非常抱歉给您带来的不便，有任何问题请随时联系我们。",
+        "rating": 4.4,
+        "rating_count": 27,
+        "recent_order_num": 60,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减5，满50减7，满100减12",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 18044497,
+                "name": "满减优惠",
+                "tips": "满30减5，满50减7，满100减12"
+            },
+            {
+                "description": "帝都5折＊暖暖下午茶",
+                "icon_color": "f07373",
+                "icon_name": "帝",
+                "id": 17572910,
+                "name": "(不与其它活动同享)帝都5折＊暖暖下午茶",
+                "tips": "(不与其它活动同享)帝都5折＊暖暖下午茶"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15981499,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区朝外南街",
+        "description": "就算老板再凶恶，也不能让自己先饿；每天两块鲜花饼，一块压住今天的浮躁，一块押注明天的惊喜。每天送鲜花的是变态，送鲜花饼的才是真爱。",
+        "distance": 3818,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 110,
+        "id": 1089557,
+        "image_path": "//fuss10.elemecdn.com/4/fb/721e9af2478e71e3d4b48102adb36png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.921801,
+        "longitude": 116.438856,
+        "max_applied_quantity_per_order": -1,
+        "name": "我是花吃",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 42,
+        "phone": "13811458461",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 110
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "获评\"最云南伴手礼\"\"云南消费者好口碑食品奖\"，用诚意和手艺，让鲜花与美食融合，体现创意和心意，挑战猫腻多多的食品市场。获央视创业英雄汇节目、罗辑思维、吴晓波频道力荐。",
+        "rating": 4.4,
+        "rating_count": 22,
+        "recent_order_num": 69,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减3",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17021232,
+                "name": "满减优惠",
+                "tips": "满30减3"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17592689,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区建外街道光华路SOHO光华路ＳＯＨＯ",
+        "description": "",
+        "distance": 4717,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 100,
+        "id": 1119542,
+        "image_path": "//fuss10.elemecdn.com/b/1b/e1089e490e593c49b7b9dad9cfc19png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.91314,
+        "longitude": 116.452416,
+        "max_applied_quantity_per_order": -1,
+        "name": "Partager臻享",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/19:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "010-65615669",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "由于天气原因，第三方配送运力不足，请尽量提前下单并与客服联系，小店会尽全力把甜品送到您手中。小臻保证，所有蛋糕都是下单后新鲜制作，无添加剂，无防腐剂，美味又健康是我们唯一宗旨，小孩和孕妇都可食用！",
+        "rating": 4.6,
+        "rating_count": 0,
+        "recent_order_num": 254,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减4，满50减6",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16624415,
+                "name": "满减优惠",
+                "tips": "满30减4，满50减6"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15775992,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东城区南锣鼓巷16号3幢",
+        "description": "",
+        "distance": 3469,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 120,
+        "id": 1374482,
+        "image_path": "//fuss10.elemecdn.com/7/43/bb5a1171cef4f8b269afcdb727ec1png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.939738,
+        "longitude": 116.403247,
+        "max_applied_quantity_per_order": -1,
+        "name": "逆爱杯子蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 0,
+        "phone": "15901079698",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 120
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "3A07逆爱杯子蛋糕一直被模仿，从未被超越！2010年发明乳酪杯子蛋糕，2011年把马卡龙带入国内，2012年发明慕斯冰棒，2013年发明冻感甜甜圈，2014年带回马卡龙冰激凌，2015年改进冻干草莓巧克力，发明蜜罐蛋糕！2016年会有更多新品！还希望大家多多支持",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 6,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15913337,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区正觉胡同5号9",
+        "description": "",
+        "distance": 3945,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 148,
+        "id": 1243120,
+        "image_path": "//fuss10.elemecdn.com/9/63/ffa434f288d993fcecf6c9e374915png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.94004,
+        "longitude": 116.3753,
+        "max_applied_quantity_per_order": -1,
+        "name": "Queen's皇冠甜点",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/19:30"
+        ],
+        "order_lead_time": 22,
+        "phone": "66026783",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 148
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "",
+        "rating": 0,
+        "rating_count": 0,
+        "recent_order_num": 11,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满35减5，满70减12，满100减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17302583,
+                "name": "满减优惠",
+                "tips": "满35减5，满70减12，满100减20"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15776304,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单北大街133号B1-E-06号",
+        "average_cost": "¥28/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 2039,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 0,
+        "id": 1474028,
+        "image_path": "//fuss10.elemecdn.com/6/62/211596d27566ccfcc521caa7eca4ajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.90987,
+        "longitude": 116.373519,
+        "max_applied_quantity_per_order": -1,
+        "name": "浆宝活力代餐吧（君太店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 33,
+        "phone": "010-66011138",
+        "piecewise_agent_fee": {
+            "description": "订单满100配送费1元，20至100付6元，不满20付10元",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 0
+                },
+                {
+                    "fee": 6,
+                    "price": 20
+                },
+                {
+                    "fee": 1,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.8,
+        "rating_count": 32,
+        "recent_order_num": 81,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17219503,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区西单明珠市场7层332号",
+        "average_cost": "¥24/人",
+        "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送"
+        },
+        "description": "",
+        "distance": 1818,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 2085839,
+        "image_path": "//fuss10.elemecdn.com/6/62/211596d27566ccfcc521caa7eca4ajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.91014,
+        "longitude": 116.37613,
+        "max_applied_quantity_per_order": -1,
+        "name": "薡茶(明珠店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:20/21:30"
+        ],
+        "order_lead_time": 0,
+        "phone": "15313838389",
+        "piecewise_agent_fee": {
+            "description": "订单满100免配送费，20至100付5元，不满20付9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                },
+                {
+                    "fee": 5,
+                    "price": 20
+                },
+                {
+                    "fee": 0,
+                    "price": 100
+                }
+            ],
+            "tips": "配送费约¥5"
+        },
+        "promotion_info": "店内活动调整，暂勿下单",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "准时必达，超时秒赔",
+                "icon_color": "57A9FF",
+                "icon_name": "准",
+                "id": 9,
+                "name": "准时达"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减5，满200减10，满300减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 18027070,
+                "name": "满减优惠",
+                "tips": "满100减5，满200减10，满300减15"
+            }
+        ],
+        "address": "北京市丰台区太平桥东局92号",
+        "description": "伊米蛋糕主要以外送生日蛋糕、婚礼蛋糕为主打，在经营的这几年中以诚为本的经营理念得到了广大客户的一致好评。为体现公司更全面的人性化服务，自公司成立以来，一直坚持以“同一产品，价格低；同一价格，质量好；同一质量，速度快；同一速度，服务优”为企业宗旨。不仅完善了产品质量，更多的体现",
+        "distance": 7008,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 2160110,
+        "image_path": "//fuss10.elemecdn.com/8/be/b8529d8d55c89c83e6bf75288fabbpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.879496,
+        "longitude": 116.324703,
+        "max_applied_quantity_per_order": -1,
+        "name": "伊米蛋糕（太平桥店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/23:55"
+        ],
+        "order_lead_time": 0,
+        "phone": "18366783788 15811166118",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "伊米蛋糕本店蛋糕现烤现卖 为不影响您的按时食用 请尽量提前预订 五环内免费配送 五环外六环里运费20元.六环外请咨询客服电话;010---57470370. 蛋糕上的水果因季节变化而选择应季水果, 比如草莓过季会换成其他水果,请下单时看好公告哦",
+        "rating": 4,
+        "rating_count": 0,
+        "recent_order_num": 0,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额158.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满130减20，满220减25，满300减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15188729,
+                "name": "满减优惠",
+                "tips": "满130减20，满220减25，满300减30"
+            },
+            {
+                "description": "满220.0元赠送价值28元的蛋糕单角或班戟1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14618179,
+                "name": "满赠优惠",
+                "tips": "满220.0元赠送价值28元的蛋糕单角或班戟1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15980047,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "朝阳区小营东路3号凯基伦大厦5层电梯左侧",
+        "average_cost": "¥73/人",
+        "description": "小贤家",
+        "distance": 9852,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 447737,
+        "image_path": "//fuss10.elemecdn.com/9/6a/f5edac66bc371753000a5bfe005fbjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.994306,
+        "longitude": 116.427961,
+        "max_applied_quantity_per_order": -1,
+        "name": "小贤家千层榴莲蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/23:00"
+        ],
+        "order_lead_time": 77,
+        "phone": "01059273188",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "尊敬的顾客：小贤家的榴莲/芒果/草莓/黄桃/蓝莓都是满满的四层新鲜水果果肉，所有的奶油都采用进口纯天然的动物乳脂。蛋糕全部为当天制作。每个蛋糕采用专人专送，运送途中放有冰袋来保持冷藏温度。蛋糕为订制品，客户下单后需要制作、配送，不能保证1小时内送达，如有任何疑问欢迎拨打客服电话.",
+        "rating": 4.8,
+        "rating_count": 227,
+        "recent_order_num": 1492,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额138.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满200减60，满300减70",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17699920,
+                "name": "满减优惠",
+                "tips": "满100减50，满200减60，满300减70"
+            },
+            {
+                "description": "榴莲蛋糕66元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 18075842,
+                "name": "(不与其它活动同享)榴莲蛋糕66元起",
+                "tips": "(不与其它活动同享)榴莲蛋糕66元起"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636264,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "新品特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 18075810,
+                "name": "(不与其它活动同享)新品特价",
+                "tips": "(不与其它活动同享)新品特价"
+            },
+            {
+                "description": "榴莲千层蛋糕124.6元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17338290,
+                "name": "(不与其它活动同享)榴莲千层蛋糕124.6元起",
+                "tips": "(不与其它活动同享)榴莲千层蛋糕124.6元起"
+            },
+            {
+                "description": "七折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15587363,
+                "name": "(不与其它活动同享)七折",
+                "tips": "(不与其它活动同享)七折"
+            }
+        ],
+        "address": "高碑店御河大厦a座6号楼2号门市",
+        "average_cost": "¥65/人",
+        "description": "目前市场上制作千层蛋糕的店铺有很多，但是如何选择一个放心的店，一款放心的产品呢？那么，选择7cake吧，北京实体工厂当天制作，买的放心，吃的舒心！",
+        "distance": 12215,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 320172,
+        "image_path": "//fuss10.elemecdn.com/2/ec/d3a29e3e240272568a291f79776c3png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9030080279334,
+        "longitude": 116.540397948989,
+        "max_applied_quantity_per_order": -1,
+        "name": "7cake千层榴莲蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/21:50"
+        ],
+        "order_lead_time": 95,
+        "phone": "18001365433",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "公告:    我们只做无添加！\n目前市场上制作千层蛋糕的店铺有很多，但是如何选择一个放心的店，一款放心的产品呢？那么，选择7cake吧，北京实体工厂当天制作，买的放心，吃的舒心！ (满200元随机赠送班戟一个)",
+        "rating": 4.7,
+        "rating_count": 59,
+        "recent_order_num": 538,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额168.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满85减5，满150减15，满200减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15065787,
+                "name": "满减优惠",
+                "tips": "满85减5，满150减15，满200减30"
+            },
+            {
+                "description": "年终大促",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17664592,
+                "name": "(不与其它活动同享)年终大促",
+                "tips": "(不与其它活动同享)年终大促"
+            },
+            {
+                "description": "满80.0元赠送甜品或饮品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14357906,
+                "name": "满赠优惠",
+                "tips": "满80.0元赠送甜品或饮品1份"
+            }
+        ],
+        "address": "北京市东城区左安门内大街86号",
+        "average_cost": "¥48/人",
+        "description": "",
+        "distance": 5246,
+        "float_delivery_fee": 7,
+        "float_minimum_order_amount": 0,
+        "id": 904556,
+        "image_path": "//fuss10.elemecdn.com/0/dd/6c7798995358ff39f72093b8572b0jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.874571,
+        "longitude": 116.439629,
+        "max_applied_quantity_per_order": -1,
+        "name": "乐味乐道千层榴莲蛋糕店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:15/21:00"
+        ],
+        "order_lead_time": 79,
+        "phone": "13693224346 15611292598",
+        "piecewise_agent_fee": {
+            "description": "配送费7元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 7,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费7元"
+        },
+        "promotion_info": "接单时间:早8:00到晚21:00其他时间下单可接受预定",
+        "rating": 4.2,
+        "rating_count": 67,
+        "recent_order_num": 244,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额500.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满65减5，满105减10，满210减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17075443,
+                "name": "满减优惠",
+                "tips": "满65减5，满105减10，满210减20"
+            },
+            {
+                "description": "圣诞狂欢7折起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 18109532,
+                "name": "(不与其它活动同享)圣诞狂欢7折起",
+                "tips": "(不与其它活动同享)圣诞狂欢7折起"
+            },
+            {
+                "description": "满130.0元赠送（米莉米娅）金沙威化巧克力1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17076007,
+                "name": "满赠优惠",
+                "tips": "满130.0元赠送（米莉米娅）金沙威化巧克力1份"
+            }
+        ],
+        "address": "北京市丰台区成寿寺临188号",
+        "average_cost": "¥52/人",
+        "description": "",
+        "distance": 8395,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 0,
+        "id": 1165005,
+        "image_path": "//fuss10.elemecdn.com/f/ac/c26ed5a591820bc5537bb732cb4a7png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.8445630855715,
+        "longitude": 116.448967158292,
+        "max_applied_quantity_per_order": -1,
+        "name": "米莉米娅榴莲千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/21:30"
+        ],
+        "order_lead_time": 85,
+        "phone": "13552751992",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "尊敬的客户，米莉米娅，榴莲，芒果，黄桃，木瓜，火龙果，蓝莓，香蕉，奥利奥，菠萝，草莓，奇异果，都是满满的四层果肉，，所有的奶油都是采用纯进口动物乳脂奶油，蛋糕全部新鲜现做，专人闪送送达，蛋糕为订制品下单后制作同城保证3个小时内送达，如有疑问请拨打客服电话！！",
+        "rating": 4.6,
+        "rating_count": 115,
+        "recent_order_num": 586,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满200减60，满300减70",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17345582,
+                "name": "满减优惠",
+                "tips": "满100减50，满200减60，满300减70"
+            },
+            {
+                "description": "榴莲蛋糕66元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 18076342,
+                "name": "(不与其它活动同享)榴莲蛋糕66元起",
+                "tips": "(不与其它活动同享)榴莲蛋糕66元起"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636325,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "新品特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 18076317,
+                "name": "(不与其它活动同享)新品特价",
+                "tips": "(不与其它活动同享)新品特价"
+            },
+            {
+                "description": "榴莲千层124.6起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 18076297,
+                "name": "(不与其它活动同享)榴莲千层124.6起",
+                "tips": "(不与其它活动同享)榴莲千层124.6起"
+            },
+            {
+                "description": "七折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15587363,
+                "name": "(不与其它活动同享)七折",
+                "tips": "(不与其它活动同享)七折"
+            },
+            {
+                "description": "5折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15586989,
+                "name": "(不与其它活动同享)5折",
+                "tips": "(不与其它活动同享)5折"
+            }
+        ],
+        "address": "高碑店医药物流区1525号",
+        "average_cost": "¥65/人",
+        "description": "享受生活，我们最该提到的\"即时健康\"为先。因此我们把工厂建在北京，力求出厂即送达，无需空运等待。大家在市面上应该都见过很多色彩鲜艳，样貌诱人的蛋糕吧。很抱歉，我们很难做到那样的。因为我们无法采用一些色素类有害物质去妆点本该有的健康美味。当然这也是\"千层千梦\"水果蛋糕的生存之本！\"      ～现吃鲜做的千层蛋糕，吃过还想吃的哦 厚厚的果肉回味无穷（榴莲、芒果、香蕉、凤梨、木瓜、红心火龙果、燕麦巧克力、黄桃、红豆）九种口味。北京好朋友们有口福啦，想吃的榴莲粉们别忍啦！",
+        "distance": 10936,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 375588,
+        "image_path": "//fuss10.elemecdn.com/7/8d/b8fa8d5a2dd324898fa31ded81fb4png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9007068640389,
+        "longitude": 116.525157168324,
+        "max_applied_quantity_per_order": -1,
+        "name": "千层千梦榴莲千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/21:50"
+        ],
+        "order_lead_time": 77,
+        "phone": "18001365422",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "收货时请您确定【品相，口味，尺寸，数量】再签收哦，拿到蛋糕后务必【冷藏】，我们保持着纯正无添加的原则，这是我们销量高的原因，请同行评价时手下留情！",
+        "rating": 4.7,
+        "rating_count": 18,
+        "recent_order_num": 147,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额168.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满200减60，满300减70",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17534440,
+                "name": "满减优惠",
+                "tips": "满100减50，满200减60，满300减70"
+            },
+            {
+                "description": "榴莲蛋糕66元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17794342,
+                "name": "(不与其它活动同享)榴莲蛋糕66元起",
+                "tips": "(不与其它活动同享)榴莲蛋糕66元起"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15637927,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "榴莲蛋糕124.6元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17363985,
+                "name": "(不与其它活动同享)榴莲蛋糕124.6元起",
+                "tips": "(不与其它活动同享)榴莲蛋糕124.6元起"
+            },
+            {
+                "description": "新品特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 16646853,
+                "name": "(不与其它活动同享)新品特价",
+                "tips": "(不与其它活动同享)新品特价"
+            }
+        ],
+        "address": "北京市朝阳区霄云路35号",
+        "average_cost": "¥61/人",
+        "description": "欢迎光临",
+        "distance": 7647,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1097957,
+        "image_path": "//fuss10.elemecdn.com/3/16/486d6cdb0920283db59a05a53f8a3png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.956756,
+        "longitude": 116.461763,
+        "max_applied_quantity_per_order": -1,
+        "name": "千层千梦榴莲蛋糕（霄云路店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/21:50"
+        ],
+        "order_lead_time": 46,
+        "phone": "18001365422",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "千层千梦，给您全新的购物体验，完美的品质，完美的服务，希望您的生活每天都是美美哒！满200元送班戟一个,",
+        "rating": 4.8,
+        "rating_count": 12,
+        "recent_order_num": 103,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满65减5，满105减10，满210减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17842845,
+                "name": "满减优惠",
+                "tips": "满65减5，满105减10，满210减20"
+            },
+            {
+                "description": "满150.0元赠送鲜果班戟一份1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17845744,
+                "name": "满赠优惠",
+                "tips": "满150.0元赠送鲜果班戟一份1份"
+            },
+            {
+                "description": "圣诞节大促",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17735228,
+                "name": "(不与其它活动同享)圣诞节大促",
+                "tips": "(不与其它活动同享)圣诞节大促"
+            }
+        ],
+        "address": "北京市丰台区方庄南路2号20层2单元2206",
+        "average_cost": "¥52/人",
+        "description": "",
+        "distance": 6747,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1514282,
+        "image_path": "//fuss10.elemecdn.com/2/4d/3b6441a602d7c74ef21fbbe7b99b5png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.963078,
+        "longitude": 116.361836,
+        "max_applied_quantity_per_order": -1,
+        "name": "米莉米娅榴莲千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:30/22:00"
+        ],
+        "order_lead_time": 71,
+        "phone": "13552751772",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "尊敬的客户，米莉米娅，榴莲，芒果，黄桃，木瓜，火龙果，蓝莓，香蕉，奥利奥，菠萝，草莓，奇异果，都是满满的四层果肉，，所有的奶油都是采用纯进口动物乳脂奶油，蛋糕全部新鲜现做，专人闪送送达，蛋糕为订制品下单后制作同城保证3个小时内送达，如有疑问请拨打客服电话！！",
+        "rating": 4.3,
+        "rating_count": 45,
+        "recent_order_num": 327,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减12，满65减22，满128减40",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17682026,
+                "name": "满减优惠",
+                "tips": "满30减12，满65减22，满128减40"
+            },
+            {
+                "description": "帝都5折＊暖暖下午茶",
+                "icon_color": "f07373",
+                "icon_name": "帝",
+                "id": 17572910,
+                "name": "(不与其它活动同享)帝都5折＊暖暖下午茶",
+                "tips": "(不与其它活动同享)帝都5折＊暖暖下午茶"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15638382,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区亚运村安慧里二区14楼107号",
+        "average_cost": "¥43/人",
+        "description": " ",
+        "distance": 9392,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 0,
+        "id": 1219883,
+        "image_path": "//fuss10.elemecdn.com/8/91/59dd751f72dc705fbd4dff745a330png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.99256,
+        "longitude": 116.412227,
+        "max_applied_quantity_per_order": -1,
+        "name": "老婆很芒千层水果蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:30/22:00"
+        ],
+        "order_lead_time": 56,
+        "phone": "17601683285",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 163,
+        "recent_order_num": 626,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满85减5，满150减15，满200减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15065568,
+                "name": "满减优惠",
+                "tips": "满85减5，满150减15，满200减30"
+            },
+            {
+                "description": "年终促销",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17483267,
+                "name": "(不与其它活动同享)年终促销",
+                "tips": "(不与其它活动同享)年终促销"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15981551,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "年终优惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17482534,
+                "name": "(不与其它活动同享)年终优惠",
+                "tips": "(不与其它活动同享)年终优惠"
+            },
+            {
+                "description": "满80.0元赠送甜品或饮品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14358108,
+                "name": "满赠优惠",
+                "tips": "满80.0元赠送甜品或饮品1份"
+            }
+        ],
+        "address": "北京市朝阳区北苑路",
+        "average_cost": "¥47/人",
+        "description": "",
+        "distance": 9441,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 0,
+        "id": 1104437,
+        "image_path": "//fuss10.elemecdn.com/d/a1/c807aae9cec9a51caced1afa6f5a2png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.992073,
+        "longitude": 116.419448,
+        "max_applied_quantity_per_order": -1,
+        "name": "乐味乐道千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/21:00"
+        ],
+        "order_lead_time": 70,
+        "phone": "01087196039",
+        "piecewise_agent_fee": {
+            "description": "配送费9元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费9元"
+        },
+        "promotion_info": "每款产品都是接单后新鲜制作 保证口味新鲜 送达时间为1-3个小时 亲大家耐心等待",
+        "rating": 4.2,
+        "rating_count": 46,
+        "recent_order_num": 140,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额500.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636241,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区西坝河中街",
+        "average_cost": "¥35/人",
+        "description": "四兴甜品，用心出品！图片仅供参考，请以实物为准。",
+        "distance": 6898,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 50,
+        "id": 301848,
+        "image_path": "//fuss10.elemecdn.com/3/35/b65756437235138eb190049863445jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.961654,
+        "longitude": 116.439888,
+        "max_applied_quantity_per_order": -1,
+        "name": "四兴甜品（国展店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "64894002",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 50
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "1、本店所有所有甜品纯手工现场制作，无任何添加剂的港式，台式甜品，主要以新鲜水果，牛奶做主要食材，主打榴莲系列，白雪系列，芒果系列等。\n  2、本店手工酸奶，双皮奶，奶制品系列产品等，原材料为纯进口牛奶手工制作。\n  3、本店有冷热之分的产品，如有特殊要求，请您麻烦备注注明，",
+        "rating": 4.5,
+        "rating_count": 141,
+        "recent_order_num": 350,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减15，满98减30，满145减45",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17674525,
+                "name": "满减优惠",
+                "tips": "满50减15，满98减30，满145减45"
+            },
+            {
+                "description": "岁末大促",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17807195,
+                "name": "岁末大促",
+                "tips": "岁末大促"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16996004,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "特价秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17783017,
+                "name": "特价秒杀",
+                "tips": "特价秒杀"
+            }
+        ],
+        "address": "北京市丰台区菜户营金泰城丽湾3号楼1005",
+        "average_cost": "¥60/人",
+        "description": "",
+        "distance": 6214,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 60,
+        "id": 1931891,
+        "image_path": "//fuss10.elemecdn.com/2/b4/4eba0e56688786ddc7d223b6e3081jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.8711418931188,
+        "longitude": 116.343632010415,
+        "max_applied_quantity_per_order": -1,
+        "name": "奶爸鲜果(菜户营店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:00"
+        ],
+        "order_lead_time": 42,
+        "phone": "18659171260",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 60
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "我们把每一个在品尝美味的人换作自己，就是这份换位思考的方式，让我们用最严苛的态度，选择最地道的食材。总统黄油、蓝风车淡奶油、韩国幼砂糖、五十铃抹茶粉、满足您所有味觉享受的同时我们更注重食品安全，店内无翻糖及添加剂色素产品，甜品现点现做，承诺三小时内吃上，请提前下单以免耽误用餐。",
+        "rating": 4.6,
+        "rating_count": 88,
+        "recent_order_num": 120,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减15，满100减25",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17126458,
+                "name": "满减优惠",
+                "tips": "满50减15，满100减25"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15842012,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区天力街16号楼一层06",
+        "average_cost": "¥37/人",
+        "description": "本餐厅以新鲜水果为主要食材，经营港式甜品、传统甜品、咖啡、西点等。",
+        "distance": 5252,
+        "float_delivery_fee": 30,
+        "float_minimum_order_amount": 40,
+        "id": 182571,
+        "image_path": "//fuss10.elemecdn.com/a/01/824cb2a37062fc3c44b243101e913jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.897448,
+        "longitude": 116.457139,
+        "max_applied_quantity_per_order": -1,
+        "name": "玛丽莲甜品",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:50"
+        ],
+        "order_lead_time": 49,
+        "phone": "010-58764800 13301114959",
+        "piecewise_agent_fee": {
+            "description": "配送费30元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 30,
+                    "price": 40
+                }
+            ],
+            "tips": "配送费30元"
+        },
+        "promotion_info": "玛丽莲甜品双井店，以新鲜水果牛奶做主要原料新鲜制作甜品。我们没有工厂，每日新鲜制作。部分产品制作时间长，请您耐心等候。好吃有品质的产品需要时间。谢谢您的理解。",
+        "rating": 4.5,
+        "rating_count": 366,
+        "recent_order_num": 994,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减15，满200减25，满300减35",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17191555,
+                "name": "满减优惠",
+                "tips": "满100减15，满200减25，满300减35"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17435667,
+                "name": "(不与其它活动同享)特价",
+                "tips": "(不与其它活动同享)特价"
+            },
+            {
+                "description": "新用户下单立减15.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15776436,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15.0元"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17435469,
+                "name": "(不与其它活动同享)特价",
+                "tips": "(不与其它活动同享)特价"
+            },
+            {
+                "description": "新品特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17193489,
+                "name": "(不与其它活动同享)新品特价",
+                "tips": "(不与其它活动同享)新品特价"
+            },
+            {
+                "description": "满200.0元赠送泡芙1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17192321,
+                "name": "满赠优惠",
+                "tips": "满200.0元赠送泡芙1份"
+            }
+        ],
+        "address": "北京市海淀区中关村东路66号2号楼地下一层",
+        "average_cost": ">¥100/人",
+        "description": "好好好",
+        "distance": 8471,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1536879,
+        "image_path": "//fuss10.elemecdn.com/9/bf/143ba295045acd67461785da85400png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.967585,
+        "longitude": 116.334085,
+        "max_applied_quantity_per_order": -1,
+        "name": "Mcake法式千层蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:35/21:00"
+        ],
+        "order_lead_time": 57,
+        "phone": "18518688224",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "棒棒棒",
+        "rating": 4.8,
+        "rating_count": 24,
+        "recent_order_num": 162,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减20，满150减30，满200减40",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14509570,
+                "name": "满减优惠",
+                "tips": "满50减20，满150减30，满200减40"
+            },
+            {
+                "description": "第二份半价",
+                "icon_color": "f07373",
+                "icon_name": "半",
+                "id": 16490777,
+                "name": "(不与其它活动同享)第二份半价",
+                "tips": "(不与其它活动同享)第二份半价"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15776093,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满200.0元赠送美味点心1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 16490289,
+                "name": "满赠优惠",
+                "tips": "满200.0元赠送美味点心1份"
+            },
+            {
+                "description": "双十一吃货狂欢节，5.3折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253168,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，5.3折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，5.3折特惠。"
+            },
+            {
+                "description": "双十一吃货狂欢节，5.8折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253204,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，5.8折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，5.8折特惠。"
+            },
+            {
+                "description": "双十一吃货狂欢节，6折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253229,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，6折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，6折特惠。"
+            }
+        ],
+        "address": "北京市海淀区羊坊店东路120号北京羊坊店东路农贸市场中心-2号",
+        "average_cost": "¥71/人",
+        "description": "艾迪米斯西店烘焙专家",
+        "distance": 6245,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1409191,
+        "image_path": "//fuss10.elemecdn.com/3/95/01616efd6a2f92356e27ef6804459png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.902891,
+        "longitude": 116.324587,
+        "max_applied_quantity_per_order": -1,
+        "name": "艾迪米斯（公主坟店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/20:00"
+        ],
+        "order_lead_time": 33,
+        "phone": "4006555989",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "接单现做，北京五环内免费配送，请提前3小时下单，可以加微信18310313909联系。",
+        "rating": 4.9,
+        "rating_count": 7,
+        "recent_order_num": 54,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满200减60，满300减70",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17338864,
+                "name": "满减优惠",
+                "tips": "满100减50，满200减60，满300减70"
+            },
+            {
+                "description": "榴莲蛋糕66元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 18076080,
+                "name": "(不与其它活动同享)榴莲蛋糕66元起",
+                "tips": "(不与其它活动同享)榴莲蛋糕66元起"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16098031,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "新品特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 18076052,
+                "name": "(不与其它活动同享)新品特价",
+                "tips": "(不与其它活动同享)新品特价"
+            },
+            {
+                "description": "榴莲千层蛋糕124.6元起",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17792371,
+                "name": "(不与其它活动同享)榴莲千层蛋糕124.6元起",
+                "tips": "(不与其它活动同享)榴莲千层蛋糕124.6元起"
+            }
+        ],
+        "address": "北京市朝阳区霄云路35号[6-5]52栋101号",
+        "average_cost": "¥65/人",
+        "description": "",
+        "distance": 7736,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1926723,
+        "image_path": "//fuss10.elemecdn.com/a/09/ce6e4c8c5350935f37fb9f7ba33c5png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.957232,
+        "longitude": 116.462602,
+        "max_applied_quantity_per_order": -1,
+        "name": "7cake蛋糕",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/21:50"
+        ],
+        "order_lead_time": 31,
+        "phone": "15313670523",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "泰国榴莲工厂直供榴莲货源，天然树熟，无添加\n进口奶油，不含反式脂肪酸\n下单后新鲜制作，北京五环内2-5小时送达",
+        "rating": 4.3,
+        "rating_count": 8,
+        "recent_order_num": 80,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减30，满150减40，满200减50",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17447789,
+                "name": "满减优惠",
+                "tips": "满50减30，满150减40，满200减50"
+            },
+            {
+                "description": "特价限时抢购",
+                "icon_color": "f1884f",
+                "icon_name": "抢",
+                "id": 17587107,
+                "name": "(不与其它活动同享)特价限时抢购",
+                "tips": "(不与其它活动同享)特价限时抢购"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15774474,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "优惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17452192,
+                "name": "(不与其它活动同享)优惠",
+                "tips": "(不与其它活动同享)优惠"
+            }
+        ],
+        "address": "北京市顺义区李桥镇南半壁店村西二街7号",
+        "average_cost": "¥41/人",
+        "description": "",
+        "distance": 10630,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 903260,
+        "image_path": "//fuss10.elemecdn.com/3/30/cff8af48475295d6b3e956f52d94cpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 40.002274,
+        "longitude": 116.370835,
+        "max_applied_quantity_per_order": -1,
+        "name": "Hello office",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/21:00"
+        ],
+        "order_lead_time": 76,
+        "phone": "18311193099",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "当遇到雨雪等恶劣天气，可能会影响配送的效率，需要3小时送达，给您带来不便，敬请谅解！",
+        "rating": 4.6,
+        "rating_count": 19,
+        "recent_order_num": 204,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减20，满150减30，满200减40",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14508084,
+                "name": "满减优惠",
+                "tips": "满50减20，满150减30，满200减40"
+            },
+            {
+                "description": "第二份半价",
+                "icon_color": "f07373",
+                "icon_name": "半",
+                "id": 16490777,
+                "name": "(不与其它活动同享)第二份半价",
+                "tips": "(不与其它活动同享)第二份半价"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15982591,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满200.0元赠送美味点心1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 16490202,
+                "name": "满赠优惠",
+                "tips": "满200.0元赠送美味点心1份"
+            },
+            {
+                "description": "双十一吃货狂欢节，5.3折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253168,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，5.3折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，5.3折特惠。"
+            },
+            {
+                "description": "双十一吃货狂欢节，5.8折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253204,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，5.8折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，5.8折特惠。"
+            },
+            {
+                "description": "双十一吃货狂欢节，6折特惠。",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 15253229,
+                "name": "(不与其它活动同享)双十一吃货狂欢节，6折特惠。",
+                "tips": "(不与其它活动同享)双十一吃货狂欢节，6折特惠。"
+            }
+        ],
+        "address": "北京市朝阳区东三环南路19号院5号楼2单元102号",
+        "average_cost": "¥71/人",
+        "description": "接单现做，北京五环内免费配送，请提前3小时下单，可以加微信18310313909联系。",
+        "distance": 6852,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 0,
+        "id": 1409188,
+        "image_path": "//fuss10.elemecdn.com/7/12/d2ace0e09bddccccbe1a5e4b5c547png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.869134,
+        "longitude": 116.458785,
+        "max_applied_quantity_per_order": -1,
+        "name": "艾迪米斯（十里河店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/20:00"
+        ],
+        "order_lead_time": 48,
+        "phone": "4006555989",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 0
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "艾迪米斯西店烘焙专家",
+        "rating": 4.7,
+        "rating_count": 9,
+        "recent_order_num": 55,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    }
+]

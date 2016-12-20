@@ -1,0 +1,360 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul,li{
+	list-style: none;
+}
+html{
+	font-size: 100px;
+}
+body{
+	background: #f4f4f4;
+}
+
+.swiper-container{
+	height: 1.64rem;
+}
+.swiper-container img{
+	height: 1.64rem;
+}
+
+.banner{
+	height: 0.53rem;
+	display: flex;
+	background: #FFFFFF;
+	align-items: center;
+}
+.banner>section{
+	text-align: center;
+	flex-grow: 1;
+}
+.banner>section:first-child{
+	border-right: 1px solid #f5f5f5;
+}
+.banner>section>span:first-child{
+	display: inline-block;
+	width: 0.17rem;
+	height: 0.15rem;
+}
+.banner>section>span:nth-child(2){
+	font-size: 0.17rem;
+	color: #333333;
+}
+.banner>section>span:last-child{
+	font-size: 0.13rem;
+	color: #ff6000;
+}
+.banner>section:first-child>span:first-child{
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAaCAYAAACgoey0AAAAAXNSR0IArs4c6QAAA2lJREFUSA21lk1IVFEUx2eeo42Ui8SW6coWumoRbQQbnaGwlKKCSAuk1KQPaaNibiIr2pb2IUTZh/QBQRFE6DjMMpHARRYYhQRurBbZwhhnpt9/eE/fzDjjM6cLd8555+P/P/e8++4dt2uFMTY2VhmLxXpx+ePxeMkKIaua3G73d3JHkH1+v38qNcGdahgdHd2H7TlJ3lTfvzxDvEDeYchf2/OTiMPh8NZIJPIB0iKChgsKCvqqq6s/2hOc6iyggtjzYJ2EfD4/P78SrG9WvsdSJCG9bpK+oMImEuJ2/1p0s70tFLAZzIPCJv+AhWFYCu+1gYD9PP8qLCw8ux5SC1PS6/WeE6awxWH5EsSTk5Mbo9HoDdPYW1VVNWsFrFcKyzCMC8IRh7ikJ4jn5uYuopcyJ2jRgBy5HDU1NTfBm2CWmlwug3ewDUMHM0plbbQ4hp7TIUxhAxpldohTm6uR/kveq62tfY9MG8Fg8BLfdQ+OpT2RFrRs+OzxeLb7fL7fyyaXS9gjIyMP4GqmkCYDZYsCqCjtI7cn5kK3OOAscbOaFlYzSBVTeXl5O1MrzQWhMEKh0CY21ztIKyiglWk8xP5JBhyvCMjJiWUvWJjCFoe4xGmwwgVOqDoMszh8BDwjMOlgsYOsVRfW4uLiU2GLg87uFWdis3CUfcUQYP4goB7y+0gnGylrHWC4hUVQg7DFwef6RUlL4DrieMd7cM6T0MiW71fAegYYA8ISprDNYzQBuUSsJ1owQf/rCdSN0s72v5qI+ocfM7ddWMIUth0miVgOTpkwVR4iIcJjN7u+y57gRDdzuoUhLGGm5iVdi3YnbTpC0mNsFGy0cwDctvsz6ZCe4vO8hT8GcSPtfbJSbEZiBUPeCvkdgTCPBQKBYdkzDdp7FJ8+TwPSNkgHM8WmtdoeaCZ2mkBDrKbe7rfr8kE2pFhmZzZS5WVdsQI0WPllVt4DsDZdHaChhMP8YaW78L0hxou8gj9xDdpjUnVHxEqCvB/g0wDPM/2883HTvgMZxFeEfQDSM7KvNhwTA6xzXbdLE6A/uYF2C5xT6S2iGNJHFHMc6ejvUtZ3LGBrCJBDoBn5ElsxJ9K4pnTZTJ8jUmE6XrGCNaanpzfMzMxcQz2RMLhcd8vKyrrKy8v/mM//V9By3eWOO5ZazV+xmpRhDMHFjQAAAABJRU5ErkJggg==) no-repeat;
+	background-size: contain;
+}
+.banner>section:last-child>span:first-child{
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAbCAYAAABm409WAAAAAXNSR0IArs4c6QAAAQBJREFUSA3tVUsKgzAQ7QRP0YK3cWN7jUJv1IXXqG4UDyPtMSR9gQoaXuKY0kVBF+q8zLz5JpEDedq2rQGXZCkG1UVRXHwF4wMfeSu5MzszLun7vhzH8Y7F3FdAROJjTEbGluCDMeaWgbzC4pEofAvl1tpKJu/zaCdsqwfGEeqBa/LWp2EGGQPZNDA9DRbKQGOr0tkdrJaJNtlZYVQf+NDdSVjpMeH0Yj1Q7WLibAEFM8CoaqNfEPpCLANfN0n+fwfBHmCKYpdOo+1RaonY+U97FMxAGyFlnYGpGcwo4r+7g3h9sPrzEknXdU/c/qfVUBIURORl8LrCdkiwXzMZHPcbsDQ9TA9UwKMAAAAASUVORK5CYII=) no-repeat;
+	background-size: contain;
+}
+
+nav{
+	margin-top: 0.12rem;
+	/*width: 4.92rem;*/
+	width: 100%;
+	height: 1.09rem;
+	background: #FFFFFF;
+	display: flex;
+}
+nav>section{
+	width: 0.82rem;
+	text-align: center;
+}
+nav>section>span{
+	display: block;
+	width: 0.52rem;
+	height: 0.52rem;
+	border-radius: 50%;
+	margin-top: 0.17rem;
+}
+nav>section>p{
+	font-size: 0.12rem;
+	color: #666666;
+	margin-top: 0.07rem;
+}
+nav>section:first-child>span{
+	background: url(//yun.duiba.com.cn/developer/img/custom_default_icon.png) no-repeat;
+	background-size: contain;
+}
+nav>section:nth-child(2)>span{
+	background: url(//yun.duiba.com.cn/images/201611/q7c9ghhwxh.png) no-repeat;
+	background-size: contain;
+}
+nav>section:nth-child(3)>span{
+	background: url(//yun.duiba.com.cn/developer/img/platform.jpg) no-repeat;
+	background-size: contain;
+}
+nav>section:nth-child(4)>span{
+	background: url(//yun.duiba.com.cn/images/201611/e2gpweapqd.png) no-repeat;
+	background-size: contain;
+}
+nav>section:nth-child(5)>span{
+	background: url(//yun.duiba.com.cn/images/201611/q4eion0i4l.png) no-repeat;
+	background-size: contain;
+}
+nav>section:last-child>span{
+	background: url(//yun.duiba.com.cn/images/201612/2bo6sqtb8e.jpg) no-repeat;
+	background-size: contain;
+}
+
+main{
+	width: 100%;
+	background: #FFFFFF;
+	margin-top: 0.12rem;
+}
+main>p{
+	height: 0.34rem;
+	line-height: 0.34rem;
+	margin-left: 0.12rem;
+	font-size: 0.12rem;
+	color: #666666;
+}
+main>div{
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+main>div>section{
+	width: 50%;
+	height: 1.73rem;
+	border-top: 1px solid #f0f0f0;
+}
+main>div>section:nth-child(odd){
+	border-right: 1px solid #f0f0f0;
+}
+main>div>section>p:first-child{
+	font-size: 0.12rem;
+	color: #333333;
+	margin-left: 0.12rem;
+	margin-top: 0.13rem;
+}
+main>div>section>p:nth-child(2){
+	font-size: 0.11rem;
+	color: #999999;
+	margin-left: 0.12rem;
+	margin-top: 0.08rem;
+}
+main>div>section>p:nth-child(2)>span:first-child{
+	font-size: 0.1rem;
+	color: #ff7d00;
+	font-weight: bold;
+}
+main>div>section>p:nth-child(2)>span:nth-child(2){
+	font-size: 0.11rem;
+	color: #FFFFFF;
+	padding: 0.02rem;
+	background: #f43632;
+	margin-left: 0.06rem;
+	border-radius: 3px;
+}
+main>div>section>span:last-child{
+	display: block;
+	width: 1.57rem;
+	height: 0.98rem;
+	margin-top: 0.11rem;
+	margin-left: 0.15rem;
+}
+
+main>div>section:first-child>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/dg2j5t9u1c.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(2)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/2fgfhviatm.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(3)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/bs7il0ig7m.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(4)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/di0h2wv6o2.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(5)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/91tm7jd04f.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(6)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/s2tfy3n501.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(7)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/ya0f840vzs.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(8)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/g5xx7zhwkh.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(9)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/yv49mh6yxp.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(10)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/geqv95kcdq.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(11)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/2vixsosh9t.png) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(12)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/mmxkzbyedb.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(13)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/akolic0v5r.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(14)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/8kfvij2zz7.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(15)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/xlm2iyu70k.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(16)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/8gjt6eguy7.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(17)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/763w3axlit.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(18)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/4oppj69j5o.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(19)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/pgaj34m79v.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(20)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/uwvy38cyyj.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(21)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/dddxkv3yu9.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(22)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/qctnwvs5us.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(23)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/kqvv0ixtrq.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(24)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/1gxncqgajk.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(25)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/6aqdrdp95o.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(26)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/7bee4mcc9x.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(27)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/zrd2od2pql.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(28)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/94c25pjigd.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(29)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/d67zeelg16.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(30)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/k2tlwg4eez.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(31)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/x084u4cko9.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(32)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/100uikprn7.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(33)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/5y1uembf4p.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(34)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/fa6af8buvb.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(35)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/z21l9wp5lo.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(36)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/31s98ev14v.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(37)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/s9hcc0lekj.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(38)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/79qurg1dav.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(39)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/5gg5sviloy.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(40)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/ecx38dsyob.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(41)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201612/i8fc8hhivq.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(42)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/lekaksah6t.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(43)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201610/lp3d79xw6i.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(44)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/kf569qtx6t.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(45)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/pvljybyac1.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(46)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/bt2k72gmg7.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(47)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201609/8yttgu54f9.jpg) no-repeat;
+	background-size: contain;
+}
+main>div>section:nth-child(48)>span:last-child{
+	background: url(//yun.duiba.com.cn/images/201611/jive7180c4.jpg) no-repeat;
+	background-size: contain;
+}
+
+
+
+

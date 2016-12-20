@@ -1,0 +1,103 @@
+
+	
+	<link rel="stylesheet" type="text/css" href="app/view/home/newstore/newstore.css"/>
+	
+		<!--页头-->
+		<header>
+			<a ui-sref="back"><span style="font-weight: bold;"> < </span></a>
+			<div style="font-weight: bold;">超值尝鲜</div>
+		</header>
+		<!--导航-->
+		<nav  class="nav">
+			<section  ng-click="left()" class="left">
+				<span class="f1">超值尝鲜</span>
+				<img class="img1"  src="app/view/home/img/sanjiao.svg" />
+			</section>
+			<section ng-click="rank()" class="rank">
+				<span class="f3">排序</span>
+				<img class="img2" src="app/view/home/img/sanjiao.svg" />
+			</section>
+			<section ng-click="choose()" class="choose">
+				<span class="f5">筛选</span>
+				<img class="img3"  src="app/view/home/img/sanjiao.svg" />
+			</section>
+		</nav>
+		
+		<div class="big">
+			<div class="left">
+				<ul ng-repeat='y in pro1'>
+					<li>
+						<img class="imgy" nb-if="y.image_url" src="{{y.image_url}}" alt=""/>
+						<span class="span1" ng-click="showshow($event)">{{y.name}}</span>
+						<span class="span2">{{y.count}}</span>
+						<span class="span3">></span>
+						
+						<div class="right">
+							<ul ng-repeat='z in y.sub_categories'>
+								<li><span>{{z.name}}</span><span>{{z.count}}</span></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		<ul class="menu1" >
+						<li class="li1"><span class="span1"></span><span class="span2">智能排序</span></li>
+						<li class="li2"><span class="span1"></span><span class="span2">距离远近</span></li>
+						<li class="li3"><span class="span1"></span><span class="span2">销量最高</span></li>
+						<li class="li4"><span class="span1"></span><span class="span2">起送价最低</span></li>
+						<li class="li5"><span class="span1"></span><span class="span2">配送速度最快</span></li>
+						<li class="li6"><span class="span1"></span><span class="span2">评分最高</span></li>
+					</ul>
+				<div class='menu2' >
+					<section class="section1">
+						<p class="p1">配送方式</p>
+						<p class="p2">
+							<span class="Dspan1"><span></span><span>不限</span></span>
+							<span class="Dspan2"><span class="span1"></span><span class="span2">蜂鸟专送</span></span>
+						</p>
+						<p class="p3">优惠活动</p>
+						<p class='p4'>商家属性(可多选)</p>
+						<p class="p5">
+							<span class="s1"><span class="span1">品</span><span class="span2">品牌商家</span></span>
+							<span class="s2"><span class="span1">保</span><span class="span2">外卖保</span></span>
+							<span class="s3"><span class="span1">新</span><span class="span2">新店</span></span>
+							<span class="s4"><span class="span1">票</span><span class="span2">开发票</span></span>
+							<span class="s5"><span class="span1">付</span><span class="span2">在线支付</span></span>
+							<span class="s6"><span class="span1">准</span><span class="span2">准时达</span></span>
+						</p>
+						
+					</section>
+					<section class="section2">
+							<span>清空</span><span>确定</span>
+					</section>
+		</div>
+		
+		<main>
+			<ul ng-repeat="x in pro">
+				<li>
+					<img src="{{x.image_path}}"/>
+				</li>  <!--图片-->
+				
+				<li>
+					<p><span ng-if="x.is_premium" class="pinpai">品牌</span><span class="name">{{x.name}}</span><span class="icon" ng-if="x.supports[0]">{{x.supports[0].icon_name}}</span></p>   <!--店名-->
+					<p>
+						<span></span> <!--星级-->
+						<span><span><img src="app/view/home/img/star.png" /></span>{{x.rating}}</span>  <!--评分-->
+						<span>月售{{x.recent_order_num}}单</span>   <!--销量-->
+						<span>
+							<span ng-if="x.delivery_mode">{{x.delivery_mode.text}}</span>
+							<span ng-if="x.supports[1]">{{x.supports[1].name}}</span>
+						</span>
+					</p>
+					<p>
+							<span class="three">￥{{x.float_minimum_order_amount}}起送<span class="icon2">/</span>配送费{{x.float_delivery_fee}}元</span>
+							<span><span class="one">{{x.distance/1000}}km</span><span class="two">/</span><span class="yang">{{x.order_lead_time}}分钟</span></span>
+	
+					</p>
+				</li>
+				
+			</ul>
+		</main>
+	

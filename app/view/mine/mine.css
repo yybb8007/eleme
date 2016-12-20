@@ -1,0 +1,193 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul,li{
+	list-style: none;
+}
+html{
+	font-size: 100px;
+}
+body{
+	background: #f4f4f4;
+}
+header{
+	width: 100%;
+	height: 0.44rem;
+	background: #3190e8;
+	font-size: 0.17rem;
+	color: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	border-bottom: 1px solid #79b5ec;
+}
+header a span{
+	display: inline-block;
+	line-height: 0.44rem;
+	position: absolute;
+	top: 0;
+	left: 0.18rem;
+	transform: scaleY(2);
+	color: #ffffff;
+}
+header div{
+	text-align: center;
+	line-height: 0.44rem;
+}
+
+.banner{
+	margin-top: 0.44rem;
+	width: 100%;
+	height: 1.1rem;
+	background: #3190e8;
+	position: relative;
+}
+.banner>a{
+	color: #fff;
+}
+.banner>a>div:first-child{
+	height: 0.6rem;
+	width: 0.6rem;
+	border-radius: 50%;
+	background: url(//fuss10.elemecdn.com/3/e9/b729de26a0f327d663c3dae68d5a1jpeg.jpeg?imageMogr/quality/75/format/webp/thumbnail/!96x96r/gravity/Center/crop/96x96/);
+	background-size: contain;
+	position: absolute;
+	top: 0.25rem;
+	left: 0.15rem;
+}
+.banner>a>div:nth-child(2){
+	height: 1.1rem;
+	margin-left: 0.93rem;
+	padding-top: 0.34rem;
+}
+.banner>a>div:nth-child(2)>p:first-child{
+	font-size: 0.17rem;
+	font-weight: bolder;
+}
+.banner>a>div:nth-child(2)>p:last-child{
+	font-size: 0.1rem;
+	margin-top: 0.05rem;
+}
+.banner>a>div:nth-child(2)>p:last-child>span{
+	display: inline-block;
+	width: 0.09rem;
+	height: 0.14rem;
+	line-height: 0.14rem;
+	background: url(images/mobile.png) no-repeat center center;
+	background-size: contain;
+}
+.banner>a>span:last-child{
+	position: absolute;
+	top: 0.49rem;
+	right: 0.17rem;
+	transform: scaleY(1.5);
+}
+
+nav{
+	height: 0.84rem;
+	width: 100%;
+	display: flex;
+	border: 1px solid #dddddd;
+	align-items: center;
+	background: #FFFFFF;
+}
+nav>section{
+	height: 0.84rem;
+	flex-grow: 1;
+	text-align: center;
+}
+nav>section:nth-child(2){
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+nav>section>a>p:first-child{
+	margin-top: 0.21rem;
+	font-size: 0.19rem;
+	font-weight: bolder;
+}
+nav>section>a>p:first-child>span{
+	font-size: 0.11rem;
+	font-weight: normal;
+}
+nav>section:first-child>a>p:first-child{
+	color: #ff9900;
+}
+nav>section:nth-child(2)>a>p:first-child{
+	color: #ff5f3e;
+}
+nav>section:last-child>a>p:first-child{
+	color: #6ac20b;
+}
+
+nav>section>a>p:last-child{
+	font-size: 0.12rem;
+	color: #666666;
+	margin-top: 0.05rem;
+}
+
+main{
+	margin-top: 0.1rem;
+}
+main ul{
+	width: 100%;
+	line-height: 0.43rem;
+	background: white;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+}
+main ul li{
+	position: relative;
+}
+main ul li>a>span{
+	display: inline-block;
+	width: 0.16rem;
+	height: 0.16rem;
+	position: absolute;
+	top: 0.14rem;
+	left: 0.16rem;
+}
+
+
+main ul li>a>p{
+	width: 3.32rem;
+	height: 0.43rem;
+	margin-left: 0.43rem;
+	border-bottom: 1px solid #dddddd;
+}
+main ul li:last-child>a>p{
+	border: none;
+}
+main ul li>a>p>span{
+	float: right;
+	margin-right: 0.12rem;
+	font-size: 0.1rem;
+	color: #bbbbbb;
+}
+
+main .ul1 li:first-child>a>span{
+	background: url(images/main-1.png);
+	background-size: contain;
+}
+main .ul1>li:nth-child(2)>a>span{
+	background: url(images/main-2.png);
+	background-size: contain;
+}
+main .ul1>li:last-child>a>span{
+	background: url(images/main-3.png);
+	background-size: contain;
+}
+
+main .ul2{
+	margin-top: 0.1rem;
+}
+main .ul2>li:first-child>a>span{
+	background: url(images/main-4.png);
+	background-size: contain;
+}
+main .ul2>li:last-child>a>span{
+	background: url(images/main-5.png);
+	background-size: contain;
+}

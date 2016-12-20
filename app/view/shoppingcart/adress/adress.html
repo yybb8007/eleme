@@ -1,0 +1,63 @@
+<link rel="stylesheet" type="text/css" href="app/view/shoppingcart/adress/adress.css"/>
+<header>
+	<a ui-sref="back2"><</a>
+	<span>添加地址</span>
+</header>
+<main>
+	<ul>
+		<li>
+			<span>联系人</span>
+		</li>
+		<li>
+			<div>
+				<input type="text" placeholder="你的名字"/>
+			</div>
+			<div>
+				<span ng-click="change($event)" class="addd add"></span><span>先生</span>
+				<span ng-click="change($event)" class="addd add"></span><span>女士</span>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>联系电话</li>
+		<li>
+			<div>
+				<input type="number" placeholder="你的手机号"/>
+			</div>
+			<div class="jiaa">
+				<input type="number" placeholder="备选电话"/>
+			</div>
+			
+			<span class="jia" ng-click="show()">+</span>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<span>送餐地址</span>
+		</li>
+		<li>
+			<div>
+				<input type="text" placeholder="小区/写字楼/学校等"/>
+			</div>
+			<div>
+				<input type="" placeholder="详细地址(如门牌号等)"/>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<span>标签</span>
+		</li>
+		<li>
+			<select>
+				<option value="none">无</option>
+				<option value="home">家</option>
+				<option value="school">学校</option>
+				<option value="gongsi">公司</option>
+			</select>
+		</li>
+	</ul>
+</main>
+<div class="sure">
+	<a href="">确定</a>
+</div>

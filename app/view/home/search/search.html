@@ -1,0 +1,25 @@
+
+		<link rel="stylesheet" type="text/css" href="app/view/home/search/css/search.css"/>
+		
+		
+		
+	
+		<header>
+			<a href="#"><img src="app/view/home/mlt/img/1.png" /></a>
+			<div class="center">
+				<span>搜索</span>
+			</div>
+
+		</header>
+		<div class="search">
+			<input type="text" placeholder="请输入商家或美食名称" id="sousuo" /><button id="btn" ng-click="search()">搜索</button>
+		</div>
+		<section>
+			<p>搜索历史</p>
+			<ul>
+				<li ng-repeat="i in searchArr"><span>{{i}}</span><b ng-click="del($event)">×</b></li>
+				<li ng-click="qingkong()">清空搜索记录</li>
+			</ul>
+		</section>
+
+

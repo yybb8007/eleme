@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul,li{
+	list-style: none;
+}
+html{
+	font-size: 100px;
+}
+body{
+	background: #f4f4f4;
+}
+header{
+	width: 100%;
+	height: 0.44rem;
+	background: #3190e8;
+	font-size: 0.17rem;
+	color: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	border-bottom: 1px solid #79b5ec;
+}
+header a span{
+	display: inline-block;
+	line-height: 0.44rem;
+	position: absolute;
+	top: 0;
+	left: 0.18rem;
+	transform: scaleY(2);
+	color: #ffffff;
+}
+header div{
+	text-align: center;
+	line-height: 0.44rem;
+}
+
+.banner{
+	margin-top: 0.34rem;
+	height: 1.06rem;
+	width: 100%;
+}
+.banner div{
+	margin-left: 0.94rem;
+	width: 1.87rem;
+	height: 1.06rem;
+	background: url(//github.elemecdn.com/eleme/fe-static/master/media/empty/no-log.png);
+	background-size: cover;
+	
+}
+main{
+	width: 100%;
+	text-align: center;
+}
+main>p:first-child{
+	font-size: 0.17rem;
+	color: #6a6a6a;
+	margin-top: 0.19rem;
+}
+main>p:nth-child(2){
+	font-size: 0.11rem;
+	color: #999999;
+	margin-top: 0.16rem;
+}
+main>p:last-child{
+	font-size: 0.11rem;
+	color: #666666;
+	margin-top: 0.26rem;
+}
+main>p:last-child>span{
+	display: inline-block;
+	font-size: 0.07rem;
+	color: #c1c1c1;
+	transform: rotateZ(90deg);
+}
+
+
+
+
+
+
+
+
+
+

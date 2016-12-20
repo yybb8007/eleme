@@ -1,0 +1,48 @@
+
+<link rel="stylesheet" type="text/css" href="app/view/home/breakfast/breakfast.css"/>
+
+<header>
+	<div>饿了么早餐</div>
+</header>
+
+<div class="div">
+	<div class="banner"></div>
+	<nav>
+		<div ng-click="change()">
+			<span>北京</span>
+			<span class="span1 span11">></span>
+		</div>
+		<div ng-click="change1()">
+			<span></span>
+			<input type="text" placeholder="请输入办公楼名称" />
+		</div>
+	</nav>
+	
+	<div class="address address1">
+		<section ng-repeat="x in pro.data" ng-click="change3()">{{x.cityName}}</section>
+	</div>
+	
+	<div class="div1 div11">
+		<p>附近开通早餐的办公楼</p>
+	</div>
+	
+	<div class="div2 div22">
+		<p>暂无相关办公楼</p>
+	</div>
+</div>
+
+<div class="divv">
+	<div>
+		<span></span>
+		<input type="text" placeholder="请输入办公楼名称" />
+	</div>
+	<p ng-click="change2()">取消</p>
+</div>
+
+
+
+
+<div class="div3">
+	<p>没有找到您所在的办公楼？</p>
+	<p>点这里试试 ></p>
+</div>

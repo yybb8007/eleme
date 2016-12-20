@@ -1,0 +1,30 @@
+angular.module('shoppingCart',[])
+.config(function($stateProvider){
+	$stateProvider
+	.state('shoppingCart',{
+		url:'/shoppingCart',
+		controller:'ctrlcar',
+		templateUrl:'app/view/shoppingcart/shoppingcart.html'
+	})
+})
+.controller('ctrlcar',function($scope){
+	$scope.arr=JSON.parse(localStorage.getItem('data'))||[];
+	console.log($scope.arr)
+	$scope.comeIn=function(){
+		$('.slide').fadeIn();
+		$('body').css('overflow','hidden')
+	}
+	$scope.hid=function(){
+		$('.slide').fadeOut();
+		$('body').css('overflow','scroll')
+	}
+	$scope.allm=null;
+	for(var i of $scope.arr){
+		console.log(i)
+		$scope.allm+=i.specfoods[0].price*i.count
+	}
+	$('.pay>div:first>span:last').text($scope.allm);
+	$scope.alertt=function(){
+		alert('请选择收货地址')
+	}
+})

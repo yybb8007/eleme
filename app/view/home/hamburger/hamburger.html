@@ -1,0 +1,103 @@
+
+	<link rel="stylesheet" href="app/view/home/hamburger/css/hamburger.css">
+
+	<div ng-controller="ctrl" class="hamburgerPage">
+		<section class="header">
+		<a ui-sref="back"><img src="app/view/home/hamburger/img/1.png" alt=""></a>
+			汉堡
+			
+		</section>
+		<div class="nav">
+			<a ng-click="show0()"><span>分类</span><img src="app/view/home/hamburger/img/sanjiao.svg" alt=""></a>
+			<a ng-click="show1()"><span>排序</span><img src="app/view/home/hamburger/img/sanjiao.svg" alt=""></a>
+			<a ng-click="show2()"><span>筛选</span><img src="app/view/home/hamburger/img/sanjiao.svg" alt=""></a>
+			
+		</div>
+		<div class="main" >
+			<section class="shop" ng-repeat="x in probb">
+				<img src="{{x.image_path}}" class="left"><!--图片-->
+			 	<div class="right">
+				 	<p class="p1">
+						<span class="span1">品牌</span><span class="span2">{{x.name}}</span>
+						<span class="aa"><span class="span1" ng-if="x.supports[0].icon_name">{{x.supports[0].icon_name}}</span><span class="span2" ng-if="x.supports[1].icon_name">{{x.supports[1].icon_name}}</span></span>
+					</p>
+					<p class="p2">
+						<span class="span3"></span>
+						<span class="span1">{{x.rating}}</span>
+						<span class="span2">月售{{x.recent_order_num}}单</span>
+					<span class="aa">
+						<span class="span1" ng-if="x.delivery_mode.text">{{x.delivery_mode.text}}</span><span class="span2" ng-if="x.supports[2].name">{{x.supports[2].name}}</span>
+					</span>
+					</p>
+					
+					<p class="p3">
+							<span class="span1">￥{{x.float_minimum_order_amount}}起送</span>
+							<span class="span2">/</span>
+							<span class="span3">
+							配送费{{x.float_delivery_fee}}元
+							</span>
+							<span class="aa">
+						<span class="span1">{{x.distance/1000}}km</span>
+							<span class="span2">/</span>
+							<span class="span3">{{x.order_lead_time}}分钟</span>
+							</span>
+					</p>
+							
+			 	</div>
+			</section> 
+		</div>
+		 	<!--分类-->
+		<div class="menu0" >
+			<div class="left">
+				<ul ng-repeat="y in pro1" >
+				<li>
+					<img ng-if="y.image_url" src="{{y.image_url}}" alt="" />
+					<span class="span1" ng-click="showshow($event)">{{y.name}}</span>
+					<span class="span2">{{y.count}}</span>
+					<span class="span3">></span>
+					<div class="right">
+						<ul ng-repeat='z in y.sub_categories'>
+							<li><span>{{z.name}}</span><span>{{z.count}}</span></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+			
+		</div>
+	</div>
+	 <div class="shadow1"></div>
+	 <div class="shadow2"></div>
+	 <!--排序-->
+	 <ul class="menu1" >
+				<li class="li1"><span class="span1"></span><span class="span2">智能排序</span></li>
+				<li class="li2"><span class="span1"></span><span class="span2">距离远近</span></li>
+				<li class="li3"><span class="span1"></span><span class="span2">销量最高</span></li>
+				<li class="li4"><span class="span1"></span><span class="span2">起送价最低</span></li>
+				<li class="li5"><span class="span1"></span><span class="span2">配送速度最快</span></li>
+				<li class="li6"><span class="span1"></span><span class="span2">评分最高</span></li>
+			</ul>
+			<!--筛选-->
+		<div class='menu2' >
+			<section class="section1">
+				<p class="p1">配送方式</p>
+				<p class="p2">
+					<span class="Dspan1"><span></span><span>不限</span></span>
+					<span class="Dspan2"><span class="span1"></span><span class="span2">蜂鸟专送</span></span>
+				</p>
+				<p class="p3">优惠活动</p>
+				<p class='p4'>商家属性(可多选)</p>
+				<p class="p5">
+					<span class="s1"><span class="span1">品</span><span class="span2">品牌商家</span></span>
+					<span class="s2"><span class="span1">保</span><span class="span2">外卖保</span></span>
+					<span class="s3"><span class="span1">新</span><span class="span2">新店</span></span>
+					<span class="s4"><span class="span1">票</span><span class="span2">开发票</span></span>
+					<span class="s5"><span class="span1">付</span><span class="span2">在线支付</span></span>
+					<span class="s6"><span class="span1">准</span><span class="span2">准时达</span></span>
+				</p>
+				
+			</section>
+			<section class="section2">
+					<span>清空</span><span>确定</span>
+			</section>
+		</div>

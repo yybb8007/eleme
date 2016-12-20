@@ -1,0 +1,70 @@
+angular.module('liaoli',[])
+.config(function($stateProvider){
+	$stateProvider
+	.state('liaoli',{
+		url:'/liaoli',
+		controller:'ctrl99',
+		templateUrl:'app/view/home/liaoli/liaoli.html'
+	})
+})
+.controller('ctrl99',function($scope,$http){
+	$http.get("http://localhost:8888/app/view/home/data/liaoli.json")
+	.then(function(res){
+		return res.data;
+	})
+	.then(function(res){
+		$scope.pro=res;
+		console.log(res);
+	});
+	$http.get('http://localhost:8888/app/view/home/data/menu.json')
+	.then(function(res){
+		return res.data;
+	})
+	.then(function(res){
+		$scope.pro1=res;
+		console.log(res);
+	});
+	$scope.show0=function(){
+		console.log('aaa');
+		$('.menu0').slideToggle(100);
+		$('.nav>a:eq(0)>img').toggleClass("sanjiao2");
+		$('.nav>a:eq(0)>span').toggleClass("font2");
+		$('.menu1').css('display','none');
+		$('.menu2').css('display','none');
+		$('.nav>a:eq(1)>img').removeClass("sanjiao");
+		$('.nav>a:eq(1)>span').removeClass("font");
+		$('.nav>a:eq(2)>img').removeClass("sanjiao1");
+		$('.nav>a:eq(2)>span').removeClass("font1");
+	};
+	$scope.show1=function(){
+		$('.menu1').slideToggle(100);
+		$('.nav>a:eq(1)>img').toggleClass('sanjiao');
+		$('.nav>a:eq(1)>span').toggleClass('font');
+//		$('.shadow2').css('display','block')
+		$('.menu0').css('display','none');
+		$('.menu2').css('display','none');
+		$('.nav>a:eq(0)>img').removeClass("sanjiao2");
+		$('.nav>a:eq(0)>span').removeClass("font2");
+		$('.nav>a:eq(2)>img').removeClass("sanjiao1");
+		$('.nav>a:eq(2)>span').removeClass("font1");
+	};
+	$scope.show2=function(){
+		$('.menu2').slideToggle(100);
+		$('.nav>a:eq(2)>img').toggleClass('sanjiao1');
+		$('.nav>a:eq(2)>span').toggleClass('font1');
+		$('.menu1').css('display','none');
+		$('.menu0').css('display','none');
+		$('.nav>a:eq(0)>img').removeClass("sanjiao2");
+		$('.nav>a:eq(0)>span').removeClass("font2");
+		$('.nav>a:eq(1)>img').removeClass("sanjiao");
+		$('.nav>a:eq(1)>span').removeClass("font");
+	};
+	$scope.showshow=function(event){
+		console.log($(event.target).parent());
+		$(event.target).parent().parent().siblings().css('background','#f2f2f2')
+		$(event.target).parent().parent().css('background','white')		
+		$(event.target).parent().parent().siblings().children().children('div').css('display','none')
+		$(event.target).parent().parent().children().children('div').css('display','block');
+		
+	};
+})

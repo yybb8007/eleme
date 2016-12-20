@@ -1,0 +1,55 @@
+<link rel="stylesheet" type="text/css" href="app/view/home/home.main/home.main.css"/>
+<header class="shopheader-background">
+	<ul>
+		<li>
+			<img src="app/view/home/img/ji.png"/>
+		</li>
+		<li>
+			<p>{{pro.name}}</p>
+			<p><span>商家配送</span>/<span>39分钟送达</span>/<span>{{pro.piecewise_agent_fee.tips}}</span></p>
+			<p><span style="background: #{{pro.activities[0].icon_color}};">{{pro.activities[0].icon_name}}</span>{{pro.activities[0].description}}</p>
+			<p><span style="background: #{{pro.activities[1].icon_color}};">{{pro.activities[1].icon_name}}</span>{{pro.activities[1].description}}</p>
+			<p><span style="background: #{{pro.activities[2].icon_color}};">{{pro.activities[2].icon_name}}</span>{{pro.activities[2].description}}</p>
+		</li>
+	</ul>
+</header>
+<div class="homeMain">
+	<section>
+		<span>商品</span>
+		<span>商家</span>
+	</section>
+	<ul>
+		<img src="//fuss10.elemecdn.com/5/da/3872d782f707b4c82ce4607c73d1ajpeg.jpeg"/>
+		<img src="//fuss10.elemecdn.com/4/73/5c4342691749b8e1a531149a46117jpeg.jpeg"/>
+		<li ng-repeat="x in pro1"><a href="a{{$index}}">{{x.name}}</a></li>
+	</ul>
+	<div>
+		<div class="right" ng-repeat="x in pro1" id="a{{$index}}">
+			<p ><span>{{x.name}}</span><span>{{x.description}}</span></p>
+			<ul ng-repeat="item in x.foods" id="ul{{item.$$hashKey}}" class="ull">
+				<li><img src="//fuss10.elemecdn.com/b/10/3e5c729099f864c9e584bf9d28854png.png?imageMogr/thumbnail/140x140/format/webp/quality/85"/></li>
+				<li>
+					<p>{{item.name}}</p>
+					<p>{{item.description}}</p>
+					<p>{{item.tips}}</p>
+					<p>￥<span>{{item.specfoods[0].price}}</span></p>
+					<span ng-click="add($event)" class="add"><span>+</span></span>
+					<span class="count"></span>
+					<span ng-click="min($event)" class="min"><span>-</span></span>
+				</li>
+			</ul>
+		</div>
+	</div>	
+</div>
+<footer>
+	<ul>
+		<li><span class="buyy buy"></span></li>
+		<li>
+			<p><span>￥</span><span class="money"></span></p>
+			<p><span>{{pro.piecewise_agent_fee.tips}}</span></p>
+		</li>
+	</ul>
+	<div>
+		<p><a ui-sref="shoppingCart">去结算</a></p>
+	</div>
+</footer>

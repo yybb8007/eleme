@@ -1,0 +1,1667 @@
+[
+    {
+        "activities": [
+            {
+                "description": "满30减8，满65减18，满128减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17682109,
+                "name": "满减优惠",
+                "tips": "满30减8，满65减18，满128减30"
+            },
+            {
+                "description": "冬月暖心优惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17712714,
+                "name": "(不与其它活动同享)冬月暖心优惠",
+                "tips": "(不与其它活动同享)冬月暖心优惠"
+            },
+            {
+                "description": "冬月暖心组合",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17692613,
+                "name": "(不与其它活动同享)冬月暖心组合",
+                "tips": "(不与其它活动同享)冬月暖心组合"
+            },
+            {
+                "description": "90后精选组合",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17547184,
+                "name": "(不与其它活动同享)90后精选组合",
+                "tips": "(不与其它活动同享)90后精选组合"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15704774,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市海淀区西小口路66号中关村东升科技园锅炉厂附属设施楼商户504",
+        "description": "企业大客户电话：400-8139-123 18618285010研究生自主创业成立果仕芙连锁店，注册资本100万。切片种类全面调整，新鲜实惠看得见！",
+        "distance": 4294,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 0,
+        "id": 18330,
+        "image_path": "https://fuss10.elemecdn.com/7/ad/eb86bd7165e88e0aa9b6523599bd6png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.934271451319,
+        "longitude": 116.43530929854,
+        "max_applied_quantity_per_order": -1,
+        "name": "果腿儿鲜果切",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:30/22:00"
+        ],
+        "order_lead_time": 57,
+        "phone": "17710235851",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "本店承诺您选购的每一份水果都是在您下单之后精挑细选鲜切制作。您收到产品后如果对我们的产品和服务有任何不满意请在收货后一小时内拨客服电话，包退包换。量大客户请提前下单，么么哒！订餐高峰，请理解送餐速度，耐心等待。",
+        "rating": 4.6,
+        "rating_count": 2353,
+        "recent_order_num": 7547,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满98减8，满198减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17124733,
+                "name": "满减优惠",
+                "tips": "满98减8，满198减20"
+            },
+            {
+                "description": "健康生活 每天从一杯苹果汁开始(9.9元1大杯)",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17762055,
+                "name": "健康生活 每天从一杯苹果汁开始(9.9元1大杯)",
+                "tips": "健康生活 每天从一杯苹果汁开始(9.9元1大杯)"
+            },
+            {
+                "description": "墨西哥牛油果特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17125282,
+                "name": "(不与其它活动同享)墨西哥牛油果特价",
+                "tips": "(不与其它活动同享)墨西哥牛油果特价"
+            },
+            {
+                "description": "一天一颗野苹果",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17125105,
+                "name": "一天一颗野苹果",
+                "tips": "一天一颗野苹果"
+            },
+            {
+                "description": "满168.0元赠送鲜榨果汁450ml1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 16639279,
+                "name": "满赠优惠",
+                "tips": "满168.0元赠送鲜榨果汁450ml1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636232,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区力源里北街2号院3号楼1层101",
+        "description": "田归农（北京）农业科技有限公司，秉承“食品需要回归”的理念，为邻里、朋友甄选新鲜、安全、高品质的水果，并快速送达！",
+        "distance": 8403,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 29,
+        "id": 297132,
+        "image_path": "https://fuss10.elemecdn.com/0/ce/5429c85d91789a1e8f42f9b211695jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.909633,
+        "longitude": 116.49591,
+        "max_applied_quantity_per_order": -1,
+        "name": "田归农快送水果",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:20"
+        ],
+        "order_lead_time": 39,
+        "phone": "01085723676",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 29
+                }
+                
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "热烈庆祝田归农望京店开业！客服热线：4008-316-613",
+        "rating": 4.8,
+        "rating_count": 687,
+        "recent_order_num": 2037,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满98减8，满198减18",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17356605,
+                "name": "满减优惠",
+                "tips": "满98减8，满198减18"
+            },
+            {
+                "description": "满168.0元赠送归农鲜榨果汁450ml1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17356643,
+                "name": "满赠优惠",
+                "tips": "满168.0元赠送归农鲜榨果汁450ml1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15706192,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区西花市大街4-6号",
+        "description": "田归农（北京）农业科技有限公司，秉承“食品需要回归”的理念，为邻里、朋友甄选新鲜、安全、高品质的水果，并快速送达！",
+        "distance": 2713,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 0,
+        "id": 914377,
+        "image_path": "https://fuss10.elemecdn.com/0/ce/5429c85d91789a1e8f42f9b211695jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.897126,
+        "longitude": 116.425285,
+        "max_applied_quantity_per_order": -1,
+        "name": "田归农快送水果（崇文门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:20"
+        ],
+        "order_lead_time": 39,
+        "phone": "4008316613",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "所有果切、果汁下单后现做，2小时必达，有任何问题包退包换！",
+        "rating": 4.8,
+        "rating_count": 75,
+        "recent_order_num": 211,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满68减5",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 11378042,
+                "name": "满减优惠",
+                "tips": "满68减5"
+            },
+            {
+                "description": "冬日温暖特惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17784729,
+                "name": "(不与其它活动同享)冬日温暖特惠",
+                "tips": "(不与其它活动同享)冬日温暖特惠"
+            },
+            {
+                "description": "满80.0元赠送鲜果切1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17698435,
+                "name": "满赠优惠",
+                "tips": "满80.0元赠送鲜果切1份"
+            },
+            {
+                "description": "优惠到底",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17527932,
+                "name": "(不与其它活动同享)优惠到底",
+                "tips": "(不与其它活动同享)优惠到底"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16049485,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区双井北菜园1号楼1层001室",
+        "description": "图片仅供参考，以实物为准。\n各种水果  啤酒 饮料 小吃 牛奶 日用品",
+        "distance": 5736,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 0,
+        "id": 271908,
+        "image_path": "https://fuss10.elemecdn.com/e/f8/b88715a3838a108256c6dacee5619jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.8974154831398,
+        "longitude": 116.462964456387,
+        "max_applied_quantity_per_order": -1,
+        "name": "光明超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "18612226548",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "本店竭诚24小时为您服务，为了保证您的餐能及时送到请提前预定，本店优先配送饿了么订单！如遇到投诉问题请提前联系餐厅！",
+        "rating": 4.5,
+        "rating_count": 641,
+        "recent_order_num": 2616,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额128.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满58减5，满88减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17545746,
+                "name": "满减优惠",
+                "tips": "满58减5，满88减8"
+            },
+            {
+                "description": "周年庆",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17600577,
+                "name": "(不与其它活动同享)周年庆",
+                "tips": "(不与其它活动同享)周年庆"
+            },
+            {
+                "description": "折扣",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17545998,
+                "name": "(不与其它活动同享)折扣",
+                "tips": "(不与其它活动同享)折扣"
+            },
+            {
+                "description": "满89.0元赠送果茶1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17545860,
+                "name": "满赠优惠",
+                "tips": "满89.0元赠送果茶1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15911956,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市西城区东新帘子胡同34号",
+        "bidding": "{\"index\":4,\"target\":{\"restaurantId\":888862,\"weight\":120,\"probability\":6.778776168823242},\"come_from\":1,\"next\":{\"restaurantId\":1776881,\"weight\":160,\"probability\":3.4103848934173584}}",
+        "description": "本店承诺您所选购的水果都是当天采购精挑细选鲜切制作，您收到产品后如对我们的服务和产品不满意可在收货后1小时内联系我们客服电话。包退包换。量大客户请提前下单。订餐高峰请理解配送员的速度，我们一定把优质的的产品加最快的速度送到你的手中。请您耐心等待",
+        "distance": 1245,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 19,
+        "id": 888862,
+        "image_path": "https://fuss10.elemecdn.com/1/63/6ef58895329c84c80971254948e19jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.90351,
+        "longitude": 116.38456,
+        "max_applied_quantity_per_order": -1,
+        "name": "号外果果（鲜果切）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/03:00"
+        ],
+        "order_lead_time": 48,
+        "phone": "15010849736 13366582278",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 19
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "活动公告：  ◆凡在本店点单超过10单（含十单）即可获取一次任意果品免单附送！（含所有果汁和时令果切！为了您更好的体验，请您在下单后及时联系商家告知您喜爱的水果呦~ 另，本店不提供发票，请知悉。",
+        "rating": 4.7,
+        "rating_count": 157,
+        "recent_order_num": 341,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满48减3，满78减6，满158减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17083044,
+                "name": "满减优惠",
+                "tips": "满48减3，满78减6，满158减10"
+            },
+            {
+                "description": "满1.0元赠送富士苹果一个1份，满128.0元赠送超甜冬枣300克1份，满68.0元赠送南丰密桔半斤1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17086943,
+                "name": "满赠优惠",
+                "tips": "满1.0元赠送富士苹果一个1份，满128.0元赠送超甜冬枣300克1份，满68.0元赠送南丰密桔半斤1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15980931,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市丰台区莲花池西路",
+        "description": "",
+        "distance": 10135,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 38,
+        "id": 909443,
+        "image_path": "https://fuss10.elemecdn.com/2/78/11aababe943af8bd399fc61a89304png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.87928,
+        "longitude": 116.285011,
+        "max_applied_quantity_per_order": -1,
+        "name": "每日鲜水果",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 50,
+        "phone": "18611508415",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 38
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": "今日下单可选择今日7；00配送；凡是在本店购买商品满58元 的顾客；送新鲜水果一份；本店是第三方配送；外卖费是有您和我们一起承担的；我们以诚心为本；服务至上的态度；您选购 的每一个商品；我们都会为您精挑细选；保正新鲜；干净卫生；如果有漏发或是坏果；请及时与我们联系；坏果包赔；有",
+        "rating": 4.7,
+        "rating_count": 559,
+        "recent_order_num": 1221,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额1000.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满108减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17377225,
+                "name": "满减优惠",
+                "tips": "满108减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15912629,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满168.0元赠送归龙鲜榨100%纯果汁450ml1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 15163049,
+                "name": "满赠优惠",
+                "tips": "满168.0元赠送归龙鲜榨100%纯果汁450ml1份"
+            }
+        ],
+        "address": "朝阳区曙光西里甲5号院3号楼1层109",
+        "description": "田归农（北京）农业科技有限公司，秉承“食品需要回归”的理念，为邻里、朋友甄选新鲜、安全、高品质的水果，并快速送达！",
+        "distance": 7675,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 20,
+        "id": 1040632,
+        "image_path": "https://fuss10.elemecdn.com/6/e9/8bca3a9b308726021ca2069116fb8png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.96236,
+        "longitude": 116.454277,
+        "max_applied_quantity_per_order": -1,
+        "name": "田归农快送水果（三元桥店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:00"
+        ],
+        "order_lead_time": 37,
+        "phone": "58668933",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "所有果切、果汁下单后现做，2小时必达，有任何问题包退包换！",
+        "rating": 4.9,
+        "rating_count": 98,
+        "recent_order_num": 284,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减4，满68减6，满98减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17683571,
+                "name": "满减优惠",
+                "tips": "满38减4，满68减6，满98减8"
+            },
+            {
+                "description": "暖心鲜切",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17796307,
+                "name": "暖心鲜切",
+                "tips": "暖心鲜切"
+            },
+            {
+                "description": "周末特惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17675908,
+                "name": "周末特惠",
+                "tips": "周末特惠"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15637203,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "西城区鸭子桥北里6号楼二门首层",
+        "description": "尖果儿欢迎您的光临，新店开业下单即有意外惊喜，水果保证新鲜可口，请亲们不要轻易给中差评，如有不满请致电我们的电话：13601164181 我们尽量会让您满意！！！ 由于我们的水果都是下单后洗净鲜切的，如果量大或加急请您提前下单哦！尖果儿立志于为您送上新鲜可口的顶级水果！！！！",
+        "distance": 5465,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 58,
+        "id": 889422,
+        "image_path": "https://fuss10.elemecdn.com/6/e9/8bca3a9b308726021ca2069116fb8png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.8778,
+        "longitude": 116.347731,
+        "max_applied_quantity_per_order": -1,
+        "name": "尖果儿(水果超市店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/23:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "18610774972",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 58
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "尖果儿欢迎您的光临，水果保证新鲜可口，请亲们不要轻易给中差评，如有不满请致电我们的电话：13601164181 我们尽量会让您满意！！！ 由于我们的水果都是下单后洗净鲜切的，如果量大或加急请您提前下单哦！尖果儿立志于为您送上新鲜可口的顶级水果！！！！",
+        "rating": 4.5,
+        "rating_count": 294,
+        "recent_order_num": 943,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减5，满68减8，满98减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15622631,
+                "name": "满减优惠",
+                "tips": "满38减5，满68减8，满98减10"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15980196,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满58.0元赠送饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 15605041,
+                "name": "满赠优惠",
+                "tips": "满58.0元赠送饮料1份"
+            }
+        ],
+        "address": "北京市海淀区红联北村市回收宿舍3号楼南侧2幢平房南数第1间平房",
+        "description": "本店经营者北京土著80后，干的是诚信经营，讲良心卖东西，您有任何不满给本店致电我保证无条件解决",
+        "distance": 5992,
+        "float_delivery_fee": 13,
+        "float_minimum_order_amount": 38,
+        "id": 559223,
+        "image_path": "https://fuss10.elemecdn.com/c/32/2b71bf4755b4b527b2fb7d6dfa3f4png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9543977878842,
+        "longitude": 116.359812554197,
+        "max_applied_quantity_per_order": -1,
+        "name": "二胖水果店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/24:00"
+        ],
+        "order_lead_time": 49,
+        "phone": "17701253238",
+        "piecewise_agent_fee": {
+            "description": "配送费13元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 13,
+                    "price": 38
+                }
+            ],
+            "tips": "配送费13元"
+        },
+        "promotion_info": "二胖水果店开业一周年了感谢新老顾客的支持，在这里忠心的对大家表示感谢！在这里本店承诺保证提供最优质的水果，绝不以次充好欺瞒大家。水果的进价差别很大大小成色都有关系也请各位擦亮眼睛。咱买水果不就为新鲜好吃吗是吧在咱们店您买不了吃亏买不了上当",
+        "rating": 4.5,
+        "rating_count": 305,
+        "recent_order_num": 921,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满100减50，满200减90，满300减130",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17250235,
+                "name": "满减优惠",
+                "tips": "满100减50，满200减90，满300减130"
+            },
+            {
+                "description": "5折限时",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 17032527,
+                "name": "(不与其它活动同享)5折限时",
+                "tips": "(不与其它活动同享)5折限时"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15983082,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "德胜门内大街185号3幢南起第二间",
+        "bidding": "{\"index\":9,\"target\":{\"restaurantId\":1776881,\"weight\":160,\"probability\":3.4103848934173584},\"come_from\":1,\"next\":{\"restaurantId\":1781009,\"weight\":50,\"probability\":4.98233699798584}}",
+        "description": "",
+        "distance": 3884,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 0,
+        "id": 1776881,
+        "image_path": "https://fuss10.elemecdn.com/f/0e/29d5467df6d24975d4935c6e0593epng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.940825,
+        "longitude": 116.379005,
+        "max_applied_quantity_per_order": -1,
+        "name": "蟹鲜生阳澄湖大闸蟹",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 40,
+        "phone": "17191201876",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "本店大闸蟹为了保证最好的口感，全部鲜活蟹现做现卖！出餐相对会慢一点！请您耐心等待。蟹鲜生大闸蟹，独有货源优势，江苏场地直供！现登陆饿了么，以最好的品质，最优的价格，最满意的服务，回馈广大食客，欢迎订购！",
+        "rating": 4.5,
+        "rating_count": 86,
+        "recent_order_num": 345,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满35减4，满68减6，满98减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17683964,
+                "name": "满减优惠",
+                "tips": "满35减4，满68减6，满98减8"
+            },
+            {
+                "description": "天天特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17796713,
+                "name": "(不与其它活动同享)天天特价",
+                "tips": "(不与其它活动同享)天天特价"
+            },
+            {
+                "description": "满68.0元赠送鲜果切1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17709790,
+                "name": "满赠优惠",
+                "tips": "满68.0元赠送鲜果切1份"
+            },
+            {
+                "description": "1元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 16976857,
+                "name": "(不与其它活动同享)1元秒杀",
+                "tips": "(不与其它活动同享)1元秒杀"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15028244,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "小经厂胡同15号",
+        "description": "新店开业，优惠多多，尖果儿立志于为您送上新鲜可口的顶级水果！！",
+        "distance": 3799,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 0,
+        "id": 1796917,
+        "image_path": "https://fuss10.elemecdn.com/4/32/8fe0dffc43536909a35f86375da1cpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.94252,
+        "longitude": 116.40504,
+        "max_applied_quantity_per_order": -1,
+        "name": "尖果儿",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/23:45"
+        ],
+        "order_lead_time": 29,
+        "phone": "18301342022",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "新店开业，优惠多多，尖果儿立志于为您送上新鲜可口的顶级水果！！！！",
+        "rating": 4.7,
+        "rating_count": 174,
+        "recent_order_num": 412,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减6，满68减9，满98减11",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15344086,
+                "name": "满减优惠",
+                "tips": "满38减6，满68减9，满98减11"
+            },
+            {
+                "description": "折扣商品",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 16778572,
+                "name": "(不与其它活动同享)折扣商品",
+                "tips": "(不与其它活动同享)折扣商品"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15981472,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "庄园特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 15345232,
+                "name": "庄园特价",
+                "tips": "庄园特价"
+            },
+            {
+                "description": "满58.0元赠送饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14462919,
+                "name": "满赠优惠",
+                "tips": "满58.0元赠送饮料1份"
+            }
+        ],
+        "address": "北京市海淀区文慧园15号楼A段",
+        "description": "",
+        "distance": 5441,
+        "float_delivery_fee": 12,
+        "float_minimum_order_amount": 0,
+        "id": 1078307,
+        "image_path": "https://fuss10.elemecdn.com/1/88/2a58d0580ff38ebb6b94df26c16e1png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.950263,
+        "longitude": 116.363375,
+        "max_applied_quantity_per_order": -1,
+        "name": "营养鲜果庄园（小西天店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/24:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "17701253238",
+        "piecewise_agent_fee": {
+            "description": "配送费12元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 12,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费12元"
+        },
+        "promotion_info": "",
+        "rating": 5,
+        "rating_count": 70,
+        "recent_order_num": 229,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满39减5，满79减7，满128减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17785350,
+                "name": "满减优惠",
+                "tips": "满39减5，满79减7，满128减10"
+            },
+            {
+                "description": "5元美食",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 16690648,
+                "name": "(不与其它活动同享)5元美食",
+                "tips": "(不与其它活动同享)5元美食"
+            },
+            {
+                "description": "5折美食",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 16653636,
+                "name": "(不与其它活动同享)5折美食",
+                "tips": "(不与其它活动同享)5折美食"
+            },
+            {
+                "description": "1元美食",
+                "icon_color": "f1884f",
+                "icon_name": "秒",
+                "id": 16653473,
+                "name": "(不与其它活动同享)1元美食",
+                "tips": "(不与其它活动同享)1元美食"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15776038,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满48.0元赠送随机饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14458791,
+                "name": "满赠优惠",
+                "tips": "满48.0元赠送随机饮料1份"
+            }
+        ],
+        "address": "东直门南小街21号",
+        "description": "",
+        "distance": 4131,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 0,
+        "id": 1393838,
+        "image_path": "https://fuss10.elemecdn.com/9/47/05e05ae100dba345d9733cd974e19png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.939077,
+        "longitude": 116.425576,
+        "max_applied_quantity_per_order": -1,
+        "name": "果真好水果",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/23:55"
+        ],
+        "order_lead_time": 39,
+        "phone": "13021219267",
+        "piecewise_agent_fee": {
+            "description": "配送费5元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费5元"
+        },
+        "promotion_info": "本店以诚信为本，为每一位客户精心服务，保证新鲜可口、干净卫生，水果都是下单后鲜切，如量大或加急、恶略天气等请您提前下单，若发现产品有任何质量问题一经核实无条件退换，请致电售后电话：13021219267 ，本店承诺客户会第一时间为您解决问题，果真好励志为企业、团队、个人、提供优质",
+        "rating": 4.5,
+        "rating_count": 111,
+        "recent_order_num": 460,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满50减5，满100减11，满160减18",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16667513,
+                "name": "满减优惠",
+                "tips": "满50减5，满100减11，满160减18"
+            },
+            {
+                "description": "特别甜的【烤红薯】来一份",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17513334,
+                "name": "特别甜的【烤红薯】来一份",
+                "tips": "特别甜的【烤红薯】来一份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15636561,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满58.0元赠送美味饮品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 15467833,
+                "name": "满赠优惠",
+                "tips": "满58.0元赠送美味饮品1份"
+            }
+        ],
+        "address": "北京市西城区西安门大街109号",
+        "description": "欢迎光临平价果蔬店，本店所有水果新鲜好吃，价格公道，欢迎惠顾。",
+        "distance": 2266,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 38,
+        "id": 510132,
+        "image_path": "https://fuss10.elemecdn.com/0/ce/556acee33a6c318bcf896ff08ba94png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.922409,
+        "longitude": 116.37754,
+        "max_applied_quantity_per_order": -1,
+        "name": "鲜果店",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:30/22:25"
+        ],
+        "order_lead_time": 30,
+        "phone": "18010478081",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 38
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "小店水果绿色新鲜，部分水果产地直销，真正让您买的方便，吃的放心。我们竭诚服务每一位客户，如有不到之处，请及时联系我们，谢谢合作。",
+        "rating": 5,
+        "rating_count": 19,
+        "recent_order_num": 62,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满58减5，满88减8，满128减18",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17062256,
+                "name": "满减优惠",
+                "tips": "满58减5，满88减8，满128减18"
+            },
+            {
+                "description": "天天特价送不停",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17062268,
+                "name": "(不与其它活动同享)天天特价送不停",
+                "tips": "(不与其它活动同享)天天特价送不停"
+            },
+            {
+                "description": "满128.0元赠送班戟1份1份，满88.0元赠送鲜榨果汁1杯1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17062260,
+                "name": "满赠优惠",
+                "tips": "满128.0元赠送班戟1份1份，满88.0元赠送鲜榨果汁1杯1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16131687,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "东城区广渠门内大街90-8号地下一层西半侧",
+        "bidding": "{\"index\":14,\"target\":{\"restaurantId\":1781009,\"weight\":50,\"probability\":4.98233699798584},\"come_from\":1,\"next\":{\"restaurantId\":1102809,\"weight\":20,\"probability\":8.926643371582031}}",
+        "description": "",
+        "distance": 2690,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 0,
+        "id": 1781009,
+        "image_path": "https://fuss10.elemecdn.com/f/6e/08c87ed1d7ca0834df4937fdb6da3jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.892807,
+        "longitude": 116.420989,
+        "max_applied_quantity_per_order": -1,
+        "name": "优鲜果园鲜果切",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 46,
+        "phone": "15301086158",
+        "piecewise_agent_fee": {
+            "description": "配送费6元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费6元"
+        },
+        "promotion_info": "本店24小时营业，为您提供优质的服务，欢迎光临哦,,,,,,,,本店可以提前两天预定，商品繁多，无法展示的请您下单备注一下就可以了 用餐高峰期或天气恶劣的情况下 为了不耽误你的用餐时间 请提前1小时下单",
+        "rating": 4.3,
+        "rating_count": 14,
+        "recent_order_num": 84,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减5，满68减7，满98减9",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14416311,
+                "name": "满减优惠",
+                "tips": "满38减5，满68减7，满98减9"
+            },
+            {
+                "description": "特价销售",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17511005,
+                "name": "特价销售",
+                "tips": "特价销售"
+            },
+            {
+                "description": "特价优惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17354655,
+                "name": "(不与其它活动同享)特价优惠",
+                "tips": "(不与其它活动同享)特价优惠"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15912990,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "1元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "秒",
+                "id": 15484204,
+                "name": "(不与其它活动同享)1元秒杀",
+                "tips": "(不与其它活动同享)1元秒杀"
+            },
+            {
+                "description": "满88.0元赠送饮品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 14415723,
+                "name": "满赠优惠",
+                "tips": "满88.0元赠送饮品1份"
+            }
+        ],
+        "address": "西城区天桥市场斜街18号",
+        "description": "果乐园致力于提供优质、新鲜、干净、卫生，方便，快捷的水果外送服务。",
+        "distance": 2605,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 30,
+        "id": 1166248,
+        "image_path": "https://fuss10.elemecdn.com/0/dc/f489584757cd9fb0f6506fd948ec8png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.885437,
+        "longitude": 116.396537,
+        "max_applied_quantity_per_order": -1,
+        "name": "果乐园",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/02:00"
+        ],
+        "order_lead_time": 52,
+        "phone": "18911683314 18627121242",
+        "piecewise_agent_fee": {
+            "description": "配送费10元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 30
+                }
+            ],
+            "tips": "配送费10元"
+        },
+        "promotion_info": "下单现做，根据距离远近30-120分钟内送达，恶劣天气除外；为了您能准时收到，请您提前预定，如有任何问题，无条件退换，请不要随意给中差评，谢谢！",
+        "rating": 4.4,
+        "rating_count": 57,
+        "recent_order_num": 127,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    },
+    {
+        "activities": [
+            {
+                "description": "满30减8，满65减18，满128减30",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 17682109,
+                "name": "满减优惠",
+                "tips": "满30减8，满65减18，满128减30"
+            },
+            {
+                "description": "蜜梨",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17712544,
+                "name": "(不与其它活动同享)蜜梨",
+                "tips": "(不与其它活动同享)蜜梨"
+            },
+            {
+                "description": "石榴",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17712498,
+                "name": "(不与其它活动同享)石榴",
+                "tips": "(不与其它活动同享)石榴"
+            },
+            {
+                "description": "优惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17712477,
+                "name": "(不与其它活动同享)优惠",
+                "tips": "(不与其它活动同享)优惠"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 17209289,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区百子湾沿海赛洛城113号－4号",
+        "description": "企业大客户电话：400-8139-123 18618285010研究生自主创业成立果仕芙连锁店，注册资本100万。切片种类全面调整，新鲜实惠看得见！",
+        "distance": 9343,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 0,
+        "id": 709341,
+        "image_path": "https://fuss10.elemecdn.com/a/c3/9b3591b2dbbfea23de51dfda8fe39png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.899842,
+        "longitude": 116.506292,
+        "max_applied_quantity_per_order": -1,
+        "name": "果腿儿（北京店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:30/21:55"
+        ],
+        "order_lead_time": 32,
+        "phone": "17710235851",
+        "piecewise_agent_fee": {
+            "description": "配送费8元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费8元"
+        },
+        "promotion_info": "本店承诺您选购的每一份水果都是在您下单之后精挑细选鲜切制作。您收到产品后如果对我们的产品和服务有任何不满意请在收货后一小时内拨客服电话，包退包换。量大客户请提前下单，么么哒！订餐高峰，请理解送餐速度，耐心等待。",
+        "rating": 4.6,
+        "rating_count": 40,
+        "recent_order_num": 133,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满58减6，满108减9，满258减15",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 14536202,
+                "name": "满减优惠",
+                "tips": "满58减6，满108减9，满258减15"
+            },
+            {
+                "description": "满90.0元赠送神秘礼物1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 17318048,
+                "name": "满赠优惠",
+                "tips": "满90.0元赠送神秘礼物1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15706613,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市朝阳区百子湾路37号",
+        "description": "欢迎光临建国超市，本店经营范围食品、饮料、酒水、进口食品、水果，日用品、生活用品等商品种类太多网站无法一一展示，如有需要亲请致电本店客服18611883700",
+        "distance": 5798,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 0,
+        "id": 1051759,
+        "image_path": "https://fuss10.elemecdn.com/5/48/51c2ba3f4551c38997f566a48a419jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.9007,
+        "longitude": 116.464536,
+        "max_applied_quantity_per_order": -1,
+        "name": "建国超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "18611883700",
+        "piecewise_agent_fee": {
+            "description": "配送费20元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 0
+                }
+            ],
+            "tips": "配送费20元"
+        },
+        "promotion_info": "本店24小时营业；经营商品种类太多网站无法展示，如有需要请致电客服18611883700，企业、个人和团体大额订单可提前一天预订，本店可开增值税发票，开票金额100元起，如需开票请备注好抬头；如有餐品质量问题请提前联系餐厅退换货请勿差评。",
+        "rating": 4.7,
+        "rating_count": 432,
+        "recent_order_num": 1791,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减5，满68减8，满98减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 16415491,
+                "name": "满减优惠",
+                "tips": "满38减5，满68减8，满98减10"
+            },
+            {
+                "description": "折扣特惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17454958,
+                "name": "(不与其它活动同享)折扣特惠",
+                "tips": "(不与其它活动同享)折扣特惠"
+            },
+            {
+                "description": "一元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 17454891,
+                "name": "一元秒杀",
+                "tips": "一元秒杀"
+            },
+            {
+                "description": "天天特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17454488,
+                "name": "天天特价",
+                "tips": "天天特价"
+            },
+            {
+                "description": "满48.0元赠送饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 16415523,
+                "name": "满赠优惠",
+                "tips": "满48.0元赠送饮料1份"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 16280936,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            }
+        ],
+        "address": "北京市东城区交道口东大街113号北京焱鑫得利综合商店35号摊位",
+        "description": "小店分店开张还请大家关照",
+        "distance": 3992,
+        "float_delivery_fee": 13,
+        "float_minimum_order_amount": 30,
+        "id": 1951770,
+        "image_path": "https://fuss10.elemecdn.com/d/35/b28728c14e453d1d793ad27a19db1jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": true,
+        "is_premium": false,
+        "latitude": 39.942697,
+        "longitude": 116.413037,
+        "max_applied_quantity_per_order": -1,
+        "name": "营养鲜果庄园(交道口店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/24:00"
+        ],
+        "order_lead_time": 26,
+        "phone": "18600653835",
+        "piecewise_agent_fee": {
+            "description": "配送费13元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 13,
+                    "price": 30
+                }
+            ],
+            "tips": "配送费13元"
+        },
+        "promotion_info": "小店新开张水果新鲜价格优惠欢迎大家下单",
+        "rating": 4.9,
+        "rating_count": 44,
+        "recent_order_num": 55,
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ]
+    },
+    {
+        "activities": [
+            {
+                "description": "满38减3，满68减6，满98减9",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 15235130,
+                "name": "满减优惠",
+                "tips": "满38减3，满68减6，满98减9"
+            },
+            {
+                "description": "暖暖",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 17702168,
+                "name": "(不与其它活动同享)暖暖",
+                "tips": "(不与其它活动同享)暖暖"
+            },
+            {
+                "description": "新用户下单立减20.0元",
+                "icon_color": "70bc46",
+                "icon_name": "新",
+                "id": 15843761,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减20.0元"
+            },
+            {
+                "description": "满30.0元赠送纸巾满50送盒装饮料1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 15235276,
+                "name": "满赠优惠",
+                "tips": "满30.0元赠送纸巾满50送盒装饮料1份"
+            }
+        ],
+        "address": "北京市西城区上斜街",
+        "bidding": "{\"index\":19,\"target\":{\"restaurantId\":1102809,\"weight\":20,\"probability\":8.926643371582031},\"come_from\":1,\"next\":{\"restaurantId\":1102350,\"weight\":30,\"probability\":4.979259014129639}}",
+        "description": "",
+        "distance": 2684,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 38,
+        "id": 1102809,
+        "image_path": "https://fuss10.elemecdn.com/3/11/3df2fe18a123eda22a0506a40f608jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "is_new": false,
+        "is_premium": false,
+        "latitude": 39.897821,
+        "longitude": 116.369396,
+        "max_applied_quantity_per_order": -1,
+        "name": "便民水果蔬菜超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:25/22:50"
+        ],
+        "order_lead_time": 37,
+        "phone": "18831068306 15321065695",
+        "piecewise_agent_fee": {
+            "description": "配送费15元",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 38
+                }
+            ],
+            "tips": "配送费15元"
+        },
+        "promotion_info": " 据说在本店下单以后，彩票中奖了，生意谈成了，升棺发财了，心想事成了，找到另一半儿啦！！！",
+        "rating": 4.8,
+        "rating_count": 34,
+        "recent_order_num": 129,
+        "recommend": {
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "status": 1,
+        "supports": []
+    }
+]

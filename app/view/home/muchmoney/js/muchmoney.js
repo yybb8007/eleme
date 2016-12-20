@@ -1,0 +1,35 @@
+angular.module('muchmoney',[])
+.config(function($stateProvider){
+	$stateProvider
+	.state('muchmoney',{
+		url:'/muchmoney',
+		controller:'ctrloo',
+		templateUrl:'app/view/home/muchmoney/muchmoney.html'
+	})
+})
+.controller('ctrloo',function($scope,$http){
+	$http.get("http://localhost:8888/app/view/home/data/muchmoney.json")
+	.then(function(res){
+		return res.data;
+	})
+	.then(function(res){
+		$scope.proaa=res;
+		console.log(res);
+	})
+	$scope.show1=function(){
+		$('.menu1').slideToggle(100);
+		$('.nav>a:eq(1)>img').toggleClass('sanjiao');
+		$('.nav>a:eq(1)>span').toggleClass('font');
+		$('.menu2').css('display','none');
+		$('.nav>a:eq(2)>span').removeClass("font1");
+		$('.nav>a:eq(2)>img').removeClass("sanjiao1");
+	};
+	$scope.show2=function(){
+		$('.menu2').slideToggle(100);
+		$('.nav>a:eq(2)>img').toggleClass('sanjiao1');
+		$('.nav>a:eq(2)>span').toggleClass('font1');
+		$('.menu1').css('display','none');
+		$('.nav>a:eq(1)>img').removeClass("sanjiao");
+		$('.nav>a:eq(1)>span').removeClass("font");
+	}
+})

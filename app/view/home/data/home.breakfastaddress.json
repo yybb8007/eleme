@@ -1,0 +1,115 @@
+{
+    "status": "SUCCESS",
+    "data": [
+        {
+            "cityId": 1,
+            "cityName": "上海",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 3,
+            "cityName": "北京",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 11,
+            "cityName": "深圳",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 4,
+            "cityName": "广州",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 2,
+            "cityName": "杭州",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 6,
+            "cityName": "南京",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 16,
+            "cityName": "沈阳",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 13,
+            "cityName": "厦门",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 9,
+            "cityName": "福州",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 5,
+            "cityName": "天津",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 18,
+            "cityName": "宁波",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 7,
+            "cityName": "武汉",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 14,
+            "cityName": "成都",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 20,
+            "cityName": "大连",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 35,
+            "cityName": "无锡",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 10,
+            "cityName": "哈尔滨",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 8,
+            "cityName": "苏州",
+            "isOpen": null,
+            "areas": null
+        },
+        {
+            "cityId": 59,
+            "cityName": "常州",
+            "isOpen": null,
+            "areas": null
+        }
+    ],
+    "message": null,
+    "errCode": 0
+}

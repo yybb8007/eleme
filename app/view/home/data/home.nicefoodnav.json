@@ -1,0 +1,290 @@
+[
+    {
+        "count": 779,
+        "ids": [
+            207,
+            220,
+            233,
+            260
+        ],
+        "image_url": "",
+        "level": 1,
+        "name": "美食"
+    },
+    {
+        "count": 230,
+        "id": 207,
+        "ids": [
+            207
+        ],
+        "image_url": "bff533cf9617bd57fe1dfb05603bebcfpng",
+        "level": 1,
+        "name": "快餐便当",
+        "sub_categories": [
+            {
+                "count": 230,
+                "id": 207,
+                "level": 1,
+                "name": "全部快餐便当"
+            },
+            {
+                "count": 76,
+                "id": 209,
+                "level": 2,
+                "name": "盖浇饭"
+            },
+            {
+                "count": 73,
+                "id": 265,
+                "level": 2,
+                "name": "简餐"
+            },
+            {
+                "count": 34,
+                "id": 219,
+                "level": 2,
+                "name": "香锅砂锅"
+            },
+            {
+                "count": 31,
+                "id": 213,
+                "level": 2,
+                "name": "米粉面馆"
+            },
+            {
+                "count": 12,
+                "id": 214,
+                "level": 2,
+                "name": "麻辣烫"
+            },
+            {
+                "count": 9,
+                "id": 217,
+                "level": 2,
+                "name": "饺子馄饨"
+            },
+            {
+                "count": 8,
+                "id": 216,
+                "level": 2,
+                "name": "生煎锅贴"
+            },
+            {
+                "count": 7,
+                "id": 215,
+                "level": 2,
+                "name": "包子粥店"
+            },
+            {
+                "count": 5,
+                "id": 212,
+                "level": 2,
+                "name": "汉堡"
+            },
+            {
+                "count": 4,
+                "id": 267,
+                "level": 2,
+                "name": "黄焖鸡米饭"
+            },
+            {
+                "count": 3,
+                "id": 266,
+                "level": 2,
+                "name": "烧腊饭"
+            },
+            {
+                "count": 1,
+                "id": 269,
+                "level": 2,
+                "name": "煲仔饭"
+            },
+            {
+                "count": 0,
+                "id": 268,
+                "level": 2,
+                "name": "咖喱饭"
+            }
+        ]
+    },
+    {
+        "count": 267,
+        "id": 220,
+        "ids": [
+            220
+        ],
+        "image_url": "655ac1bfd1e818013a9f099e964f1e9djpeg",
+        "level": 1,
+        "name": "特色菜系",
+        "sub_categories": [
+            {
+                "count": 267,
+                "id": 220,
+                "level": 1,
+                "name": "全部特色菜系"
+            },
+            {
+                "count": 96,
+                "id": 232,
+                "level": 2,
+                "name": "海鲜"
+            },
+            {
+                "count": 61,
+                "id": 263,
+                "level": 2,
+                "name": "其他菜系"
+            },
+            {
+                "count": 58,
+                "id": 221,
+                "level": 2,
+                "name": "川湘菜"
+            },
+            {
+                "count": 39,
+                "id": 231,
+                "level": 2,
+                "name": "火锅烤鱼"
+            },
+            {
+                "count": 15,
+                "id": 223,
+                "level": 2,
+                "name": "东北菜"
+            },
+            {
+                "count": 5,
+                "id": 225,
+                "level": 2,
+                "name": "江浙菜"
+            },
+            {
+                "count": 4,
+                "id": 222,
+                "level": 2,
+                "name": "粤菜"
+            },
+            {
+                "count": 3,
+                "id": 226,
+                "level": 2,
+                "name": "西北菜"
+            },
+            {
+                "count": 2,
+                "id": 227,
+                "level": 2,
+                "name": "鲁菜"
+            },
+            {
+                "count": 2,
+                "id": 228,
+                "level": 2,
+                "name": "新疆菜"
+            },
+            {
+                "count": 1,
+                "id": 224,
+                "level": 2,
+                "name": "云南菜"
+            }
+        ]
+    },
+    {
+        "count": 67,
+        "id": 260,
+        "ids": [
+            260
+        ],
+        "image_url": "1babf6efbfdb0ef701f19689a5529e5fjpeg",
+        "level": 1,
+        "name": "异国料理",
+        "sub_categories": [
+            {
+                "count": 67,
+                "id": 260,
+                "level": 1,
+                "name": "全部异国料理"
+            },
+            {
+                "count": 46,
+                "id": 229,
+                "level": 2,
+                "name": "日韩料理"
+            },
+            {
+                "count": 13,
+                "id": 211,
+                "level": 2,
+                "name": "披萨意面"
+            },
+            {
+                "count": 13,
+                "id": 230,
+                "level": 2,
+                "name": "西餐"
+            },
+            {
+                "count": 1,
+                "id": 264,
+                "level": 2,
+                "name": "东南亚菜"
+            }
+        ]
+    },
+    {
+        "count": 355,
+        "id": 233,
+        "ids": [
+            233
+        ],
+        "image_url": "435a7eda7659bac613e524ca7c1ae12epng",
+        "level": 1,
+        "name": "小吃夜宵",
+        "sub_categories": [
+            {
+                "count": 355,
+                "id": 233,
+                "level": 1,
+                "name": "全部小吃夜宵"
+            },
+            {
+                "count": 124,
+                "id": 236,
+                "level": 2,
+                "name": "小龙虾"
+            },
+            {
+                "count": 85,
+                "id": 218,
+                "level": 2,
+                "name": "烧烤"
+            },
+            {
+                "count": 68,
+                "id": 235,
+                "level": 2,
+                "name": "鸭脖卤味"
+            },
+            {
+                "count": 57,
+                "id": 237,
+                "level": 2,
+                "name": "地方小吃"
+            },
+            {
+                "count": 29,
+                "id": 234,
+                "level": 2,
+                "name": "炸鸡炸串"
+            },
+            {
+                "count": 19,
+                "id": 238,
+                "level": 2,
+                "name": "零食"
+            }
+        ]
+    }
+]

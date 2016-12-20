@@ -1,0 +1,71 @@
+{
+"activities": [
+{
+"description": "新用户下单立减20.0元(不与其它活动同享)",
+"icon_color": "70bc46",
+"icon_name": "新",
+"id": 15979992,
+"name": "新用户立减(不与其他活动共享)",
+"tips": "新用户下单立减20.0元(不与其它活动同享)"
+},
+{
+"description": "满30减5，满60减7（限在线支付）",
+"icon_color": "f07373",
+"icon_name": "减",
+"id": 17622694,
+"name": "满减优惠",
+"tips": "满30减5，满60减7（限在线支付）"
+},
+{
+"description": "双人能量餐半价享，这个冬天吉野家让你能量满满(不与其它活动同享)",
+"icon_color": "f1884f",
+"icon_name": "半",
+"id": 16384851,
+"name": "(不与其它活动同享)双人能量餐半价享，这个冬天吉野家让你能量满满",
+"tips": "(不与其它活动同享)双人能量餐半价享，这个冬天吉野家让你能量满满"
+}
+],
+"address": "北京市东城区王府井200号工美大厦地下一层",
+"description": "欢迎光临",
+"distance": 1230,
+"float_delivery_fee": 7,
+"float_minimum_order_amount": 0,
+"id": 406922,
+"image_path": "9da99e61b6978553324d485a70c67ebapng",
+"is_new": false,
+"is_premium": true,
+"latitude": 39.9109082985521,
+"license": {
+"business_license_image": "a091f85e057eaefa2e0ddb36ff970d79jpeg",
+"catering_service_license_image": "562ae4299490df0d2b68824fb2a6d1f1jpeg"
+},
+"longitude": 116.411563302116,
+"max_applied_quantity_per_order": -1,
+"name": "吉野家(工美店)",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/20:30"
+],
+"order_lead_time": 39,
+"phone": "4008197197",
+"piecewise_agent_fee": {
+"description": "配送费7元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 7,
+"price": 0
+}
+],
+"tips": "配送费7元"
+},
+"promotion_info": "1. 餐厅已纳入外卖保计划，食品安全有保证； \n2.该餐厅订餐0元起送，7元配送费，由吉野家官方提供外送服务； \n3.客服电话4008197197；\n4.该餐厅支持开发票，机打发票开出需5个工作日，订餐默认手撕发票，需要机打发票请备注，谢谢！",
+"rating": 4.6,
+"rating_count": 197,
+"recent_order_num": 829,
+"regular_customer_count": 0,
+"status": 1,
+"supports": []
+}

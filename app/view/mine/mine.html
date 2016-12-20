@@ -1,0 +1,86 @@
+
+<link rel="stylesheet" type="text/css" href="app/view/mine/mine.css"/>
+
+<header>
+	<a ui-sref="back"><span><</span></a>
+	<div>我的</div>
+</header>
+
+<div class="banner">
+	<a ui-sref="accountinformation">
+		<div></div>
+		<div>
+			<p>{{pro.username}}</p>
+			<p><span></span>{{pro.mobile}}</p>
+		</div>
+		<span>></span>
+	</a>
+</div>
+
+<nav>
+	<section>
+		<a ui-sref="mybalance">
+			<p>0.00
+				<span>元</span>
+			</p>
+			<p>我的余额</p>
+		</a>
+	</section>
+	<section>
+		<a ui-sref="mypreferential">
+			<p>5
+				<span>个</span>
+			</p>
+			<p>我的优惠</p>
+		</a>
+	</section>
+	<section>
+		<a ui-sref="myintegral">
+			<p>180
+				<span>分</span>
+			</p>
+			<p>我的积分</p>
+		</a>
+	</section>
+</nav>
+
+<main>
+	<ul  class="ul1">
+		<li>
+			<a ui-sref="myorder">
+				<span></span>
+				<p>我的订单<span>></span></p>
+			</a>
+		</li>
+		<li>
+			<a ui-sref="integralshop">
+				<span></span>
+				<p>积分商城<span>></span></p>
+			</a>
+		</li>
+		<li>
+			<a ui-sref="memberscard">
+				<span></span>
+				<p>饿了么会员卡<span>></span></p>
+			</a>
+		</li>
+	</ul>
+	<ul  class="ul2">
+		<li>
+			<a ui-sref="servicecenter">
+				<span></span>
+				<p>服务中心<span>></span></p>
+			</a>
+		</li>
+		<li>
+			<a href="">
+				<span></span>
+				<p>下载饿了么APP<span>></span></p>
+			</a>
+		</li>
+	</ul>
+</main>
+
+
+
+
