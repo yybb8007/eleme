@@ -110,20 +110,16 @@ angular.module('homeMain',[])
 
 			$scope.spancount=$(event.target).parent().siblings()[5];
 			$scope.spanmin=$(event.target).parent()
-			
-			for(var k of $scope.thingArr){
-				if(this.item.$$hashKey==k.$$hashKey){
-					k.count--;
-					$scope.spancount.innerHTML=k.count;
-					console.log(k.index)
-					if(k.count==0){
-						//移除数组中count为0的元素
-						
-						$scope.thingArr.splice(k.index,1)
-						console.log($scope.thingArr);
+			for(var i in $scope.thingArr){
+				console.log(i)
+				if(this.item.$$hashKey==$scope.thingArr[i].$$hashKey){
+					$scope.thingArr[i].count--;
+					$scope.spancount.innerHTML=$scope.thingArr[i].count;
+					if($scope.thingArr[i].count==0){
+						$scope.thingArr.splice(i,1)
 						$($scope.spancount).css('display','none');
 						$($scope.spanmin).css('display','none');
-						$scope.spancount.innerHTML=k.count;
+						$scope.spancount.innerHTML=null;
 					}
 				}
 			}
